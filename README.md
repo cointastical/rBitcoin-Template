@@ -735,11 +735,6 @@ IRA:
 - https://www.bitcoinmarketjournal.com/best-bitcoin-iras
 - https://help.altoira.com/hc/en-us/articles/360007104254-Alternative-Asset-IRA
 
-LEVERAGE:
-
-- https://exchangewar.info <-- See the "Features" column to the right for leverage levels.
-- https://www.duedex.com/trade/BTCUSD [**NO-KYC**]
-
 DERIVATIVES:
 
 - https://www.coingecko.com/en/derivatives
@@ -751,6 +746,11 @@ DERIVATIVES:
 - https://blog.deribit.com/education/hedging-usd-value-by-shorting-1x
 - https://sparrowexchange.com
 - https://bitcointalk.org/index.php?topic=5214418
+
+LEVERAGE:
+
+- https://exchangewar.info <-- See the "Features" column to the right for leverage levels.
+- https://www.duedex.com/trade/BTCUSD [**NO-KYC**]
 
 "Invest":
 
@@ -893,6 +893,7 @@ And here's how they do it again.
 INHERITANCE:   <-- This is a topic that needs better solutions.
 
 - https://www.reddit.com/r/Bitcoin/comments/cfp7yq/would_it_be_possible_to_have_a_noncustodial_way/euc352v/
+- https://medium.com/@pamelawjd/letter-to-loved-ones-a-template-for-your-crypto-estate-planning-4ee0975434e4
 
 Via multisig: Casa, and Unchained Capital
 
