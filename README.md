@@ -757,6 +757,7 @@ DERIVATIVES:
 - https://downloads.coindesk.com/crypto-investing/crypto_derivatives.pdf
 - https://blog.deribit.com/education/hedging-usd-value-by-shorting-1x
 - https://sparrowexchange.com
+- https://www.hegic.co (altcoin-related, but interesting)
 - https://bitcointalk.org/index.php?topic=5214418
 
 LEVERAGE:
