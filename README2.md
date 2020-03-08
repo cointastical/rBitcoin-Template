@@ -101,6 +101,7 @@ There are only a few exchanges that accept PayPal due to it being easily reverse
 - xCoins.io
 - CanCoin.com
 - Upcoin.com
+- Hiribi.com
 - eToro: You can fund an account on eToro and buy a bitcoin position.  But you cannot withdraw those bitcoins, and instead you can only later sell and withdraw the cash (including trading gains, or minus trading losses).
 
 Sources:
@@ -125,6 +126,7 @@ Selling bitcoin for PayPal, there are the P2P exchanges (link below) and the fol
 - https://bitcoins.express
 - https://btcrobo.com
 - https://theinstantexchange.com
+- https://Hiribi.com
 - https://baybit.io
 
 Source:
@@ -438,12 +440,12 @@ Generally recommended wallets are:
 - https://docs.google.com/spreadsheets/d/1aZ1zbaUEzCo9NCctN8-eL2VLIiSdY009tTJvRXDUWEw
 - https://np.reddit.com/r/Bitcoin/comments/ekuix8
 
-*Lightning network wallets*
+*Lightning network ([⚡](https://lightningnetworkstores.com/wallets)) wallets*
 
-- https://lnroute.com/mobile-wallets ([⚡](https://lightningnetworkstores.com/wallets))
-- https://lnroute.com/desktop-wallets ([⚡](https://lightningnetworkstores.com/wallets))
-- https://lnroute.com/category/wallets/online-wallets ([⚡](https://lightningnetworkstores.com/wallets))
-- https://lightningnetworkstores.com/wallets ([⚡](https://lightningnetworkstores.com/wallets))
+- https://lnroute.com/mobile-wallets
+- https://lnroute.com/desktop-wallets
+- https://lnroute.com/category/wallets/online-wallets
+- https://lightningnetworkstores.com/wallets
 - https://rusnak.io/lightning-wallets-comparison
 - https://www.lapps.co/wallets
 
@@ -757,6 +759,7 @@ DERIVATIVES:
 - https://downloads.coindesk.com/crypto-investing/crypto_derivatives.pdf
 - https://blog.deribit.com/education/hedging-usd-value-by-shorting-1x
 - https://sparrowexchange.com
+- https://www.hegic.co (altcoin-related, but interesting)
 - https://bitcointalk.org/index.php?topic=5214418
 
 LEVERAGE:
