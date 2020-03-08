@@ -101,6 +101,7 @@ There are only a few exchanges that accept PayPal due to it being easily reverse
 - xCoins.io
 - CanCoin.com
 - Upcoin.com
+- Hiribi.com
 - eToro: You can fund an account on eToro and buy a bitcoin position.  But you cannot withdraw those bitcoins, and instead you can only later sell and withdraw the cash (including trading gains, or minus trading losses).
 
 Sources:
@@ -125,6 +126,7 @@ Selling bitcoin for PayPal, there are the P2P exchanges (link below) and the fol
 - https://bitcoins.express
 - https://btcrobo.com
 - https://theinstantexchange.com
+- https://Hiribi.com
 - https://baybit.io
 
 Source:
