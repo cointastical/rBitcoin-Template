@@ -809,10 +809,6 @@ Previous halvings were significant because the drops in the bitcoin supply infla
 
 - https://coinmetrics.io/charts/#assets=btc_roll=7_left=IssContPctAnn_zoom=1279411200000,1572998400000
 
-From before the last halving:
-
-- https://www.coindesk.com/making-sense-bitcoins-halving
-
 *What is halving?*
 
 - https://medium.com/swlh/bitcoin-halving-everything-you-need-to-know-4573dc5b528e
