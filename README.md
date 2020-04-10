@@ -415,7 +415,7 @@ For me the top criteria in choosing a wallet are, in this order:
 
 Generally recommended wallets are:
 
-> Hardware wallet (highest security): [Trezor](https://trezor.io) or Ledger [Nano S](https://www.ledger.com)
+> Hardware wallet (highest security): [Coldcard](https://coldcardwallet.com), [Trezor](https://trezor.io) or Ledger [Nano S](https://www.ledger.com)
 
 > Desktop wallet: [Electrum](https://electrum.org), [Wasabi](https://wasabiwallet.io)
 
