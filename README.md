@@ -442,12 +442,10 @@ Generally recommended wallets are:
 
 *Lightning network ([⚡](https://lightningnetworkstores.com/wallets)) wallets*
 
-- https://lnroute.com/mobile-wallets
-- https://lnroute.com/desktop-wallets
-- https://lnroute.com/category/wallets/online-wallets
 - https://lightningnetworkstores.com/wallets
 - https://rusnak.io/lightning-wallets-comparison
 - https://www.lapps.co/wallets
+- https://lnroute.com/category/wallets
 
 *Bitcoin Hardware Wallet Comparison*
 
