@@ -291,8 +291,8 @@ Banking:
 - https://decrypt.co/11630/new-banking-service-for-crypto-companies
 - https://www.offshorecorptalk.com/threads/list-of-banks-emis-payment-processors-and-btc-to-fiat-institutions.25398
 - https://www.offshorecorptalk.com/forums/offshore-bank-accounts-emi-accounts.27
-- https://www.offshorecorptalk.com/forums/bitcoins-altcoins-exchange-services-related.15 
-- 
+- https://www.offshorecorptalk.com/forums/bitcoins-altcoins-exchange-services-related.15
+-
 
 *************************************************************************
 MERCHANT PAYMENT PROCESSING:
@@ -382,7 +382,7 @@ We (as a community) need to do a better job at convincing people to ...
 
 - **BITCOIN.COM**
 - **BLOCKCHAIN.COM**
-- **COINBASE** 
+- **COINBASE**
 - **BITPAY**
 
 Otherwise, **YOU'RE GONNA HAVE A BAD TIME**
@@ -411,7 +411,7 @@ For me the top criteria in choosing a wallet are, in this order:
 1. (tie) Non-custodial. This is because ... [Not your keys, not your bitcoin](https://www.youtube.com/watch?v=vt-zXEsJ61U).
 2. (tie) Open source, [verifiable release](https://walletscrutiny.com/#tableofwallets)
 3. [Replace-by-fee](https://en.bitcoin.it/wiki/Replace_by_fee) (RBF) support
-4. [Coin Control](https://en.bitcoin.it/Privacy#Coin_control) ([for maintaining Financial Privacy](https://medium.com/@nopara73/coin-control-is-must-learn-if-you-care-about-your-privacy-in-bitcoin-33b9a5f224a2), but also for [child-pays-for-parent](https://en.bitcoin.it/wiki/Fee_bumping) (CPFP) fee bumping). 
+4. [Coin Control](https://en.bitcoin.it/Privacy#Coin_control) ([for maintaining Financial Privacy](https://medium.com/@nopara73/coin-control-is-must-learn-if-you-care-about-your-privacy-in-bitcoin-33b9a5f224a2), but also for [child-pays-for-parent](https://en.bitcoin.it/wiki/Fee_bumping) (CPFP) fee bumping).
 
 Generally recommended wallets are:
 
@@ -750,7 +750,7 @@ IRA:
 DERIVATIVES:
 
 - https://www.coingecko.com/en/derivatives
-- https://blog.coingecko.com/coingecko-releases-derivatives-section 
+- https://blog.coingecko.com/coingecko-releases-derivatives-section
 - https://skew.com/dashboard/bitcoin-futures
 - https://contractmarketcap.com
 - https://cryptorank.io/derivatives-analytics
@@ -775,7 +775,7 @@ There are a number of ways you can lose some or all of your bitcoins.
 - 4.) Leave your bitcoins on an exchange, rather than move them to your own wallet.
 - 5.) Cloud mining.
 - 6.) Trading $BTC using technical analysis / market timing.
-- 7.) Send $BTC to the bitcoin address in (fake) Elon Musk's tweet where he promises to send back 10X as much.  
+- 7.) Send $BTC to the bitcoin address in (fake) Elon Musk's tweet where he promises to send back 10X as much.
 - 8.) Etc., etc., etc.
 
 There's a million ways to lose your bitcoins .... it really just depends on how many you have, how many you wish to lose, and how fast you want that to happen.
@@ -788,7 +788,7 @@ STABLECOINS:
 
 Simulators:
 
-- https://medium.com/@edward_64753/fcdf97f40b3  <-- For both Android and iOS 
+- https://medium.com/@edward_64753/fcdf97f40b3  <-- For both Android and iOS
 - https://Niffler.co <-- iOS / Apple Store only
 - https://play.google.com/store/apps/details?id=io.bincap.exchange
 - https://itunes.apple.com/us/app/id1355480872
