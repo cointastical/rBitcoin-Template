@@ -275,6 +275,7 @@ COINJOIN:
 
 Related:
 
+- [PayJoin](https://en.bitcoin.it/wiki/PayJoin)
 - [ColdSend](https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/Theory/Ideas/ColdSend.md)
 - [CoinJoin-Research, by 6102](https://github.com/6102bitcoin/CoinJoin-Research) and [FAQ](https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_Discussion/CoinJoin_FAQ.md)
 - [Diving head first into Whirlpool Anonymity Sets](https://medium.com/samourai-wallet/diving-head-first-into-whirlpool-anonymity-sets-4156a54b0bc7)
