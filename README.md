@@ -376,6 +376,7 @@ Lamium:
 SCAM OR NO?:
 
 - https://badbitcoin.org/thebadlist
+- https://decentralizedlegalsystem.com/crypto-currency-scam
 
 We (as a community) need to do a better job at convincing people to ...
 
