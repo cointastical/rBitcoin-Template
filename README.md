@@ -339,7 +339,7 @@ Bitpay translators and merchant alternatives directory:
 Online markets:
 
 - [OpenBazaar](https://OpenBazaar.com)
-- [Paid.co](https://paid.co) ([⚡](https://lightningnetworkstores.com/wallets)
+- [Paid.co](https://paid.co) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Bitify](https://bitify.com)
 - [CoinMall](https://www.coinmall.com)
 
@@ -358,7 +358,7 @@ BILL PAY:
 - https://coins.ph - pay bills, receive wages, recharge phones credit - PH
 - https://rebit.ph - pay bills etc - PH
 - https://coins.co.th - pay bills Thailand - TH
-- https://livingroomofsatoshi.com [⚡](https://lightningnetworkstores.com/wallets) - AUS
+- https://livingroomofsatoshi.com ([⚡](https://lightningnetworkstores.com/wallets)) - AUS
 - https://bity.com/products/crypto-online-bill-pay
 - https://bitwage.com - receive salary in BTC
 - https://paidbycoins.eu (coming soon)
