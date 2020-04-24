@@ -651,7 +651,7 @@ Visualization:
 
 - https://txhighway.cash
 - https://bitbonkers.com
-- https://BitListen.com
+- https://www.BitListen.com
 - https://fiatleak.com
 - https://symphony.iohk.io
 - https://mempool.observer/monitor
