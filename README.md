@@ -765,7 +765,7 @@ LEVERAGE:
 
 - https://exchangewar.info <-- See the "Features" column to the right for leverage levels.
 - https://www.duedex.com/trade/BTCUSD [**NO-KYC**]
-- https://LNMarkets.com [**NO-KYC**]
+- https://LNMarkets.com [**NO-KYC**] ([⚡](https://lightningnetworkstores.com/wallets))
 
 "Invest":
 
