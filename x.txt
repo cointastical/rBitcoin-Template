@@ -339,7 +339,7 @@ Bitpay translators and merchant alternatives directory:
 Online markets:
 
 - [OpenBazaar](https://OpenBazaar.com)
-- [Paid.co](https://paid.co) ([⚡](https://lightningnetworkstores.com/wallets)
+- [Paid.co](https://paid.co) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Bitify](https://bitify.com)
 - [CoinMall](https://www.coinmall.com)
 
@@ -358,7 +358,7 @@ BILL PAY:
 - https://coins.ph - pay bills, receive wages, recharge phones credit - PH
 - https://rebit.ph - pay bills etc - PH
 - https://coins.co.th - pay bills Thailand - TH
-- https://livingroomofsatoshi.com [⚡](https://lightningnetworkstores.com/wallets) - AUS
+- https://livingroomofsatoshi.com ([⚡](https://lightningnetworkstores.com/wallets)) - AUS
 - https://bity.com/products/crypto-online-bill-pay
 - https://bitwage.com - receive salary in BTC
 - https://paidbycoins.eu (coming soon)
@@ -376,6 +376,7 @@ Lamium:
 SCAM OR NO?:
 
 - https://badbitcoin.org/thebadlist
+- https://decentralizedlegalsystem.com/crypto-currency-scam
 
 We (as a community) need to do a better job at convincing people to ...
 
@@ -650,7 +651,7 @@ Visualization:
 
 - https://txhighway.cash
 - https://bitbonkers.com
-- https://BitListen.com
+- https://www.BitListen.com
 - https://fiatleak.com
 - https://symphony.iohk.io
 - https://mempool.observer/monitor
@@ -764,7 +765,7 @@ LEVERAGE:
 
 - https://exchangewar.info <-- See the "Features" column to the right for leverage levels.
 - https://www.duedex.com/trade/BTCUSD [**NO-KYC**]
-- https://LNMarkets.com [**NO-KYC**]
+- https://LNMarkets.com [**NO-KYC**] ([⚡](https://lightningnetworkstores.com/wallets)) 
 
 "Invest":
 
