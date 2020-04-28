@@ -698,7 +698,6 @@ There's still the risk of it going down after you purchase, but this strategy is
 - https://www.bitcoindollarcostaverage.com
 - [Swan Bitcoin](https://www.swanbitcoin.com) <-- Recurring purchasing (US)
 - [GiveBitcoin](https://givebitcoin.io) <-- Recurring purchasing (US)
-- [SparkSwap](https://medium.com/sparkswap/sparkswaps-new-feature-recurring-buys-9f18573658c3) ([⚡](https://lightningnetworkstores.com/wallets)) (U.S.)
 - [River](https://River.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Recurring purchasing (U.S., waiting list to join)
 - [BullBitcoin](http://bullbitcoin.com) <-- Recurring purchasing (CA)
 - [Amber](https://getamber.io) <-- Recurring purchasing (AU)
