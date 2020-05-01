@@ -815,6 +815,7 @@ Previous halvings were significant because the drops in the bitcoin supply infla
 *What is halving?*
 
 - https://www.bloomberg.com/news/articles/2020-04-25/get-set-for-bitcoin-halving-here-s-what-that-means-quicktake
+- https://www.coingecko.com/en/explain/bitcoin_halving
 - https://medium.com/swlh/bitcoin-halving-everything-you-need-to-know-4573dc5b528e
 - https://messari.io/article/everything-you-need-to-know-about-the-next-bitcoin-halving
 - https://np.reddit.com/r/Bitcoin/comments/cejo72
