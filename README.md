@@ -56,7 +56,7 @@ For those paying with GBP or EUR/SEPA, Ramp Network can be used without Id Verif
 
 - https://buy.ramp.network [**NO-KYC**] <-- Buy DAI, USDC, or ETH paying with bank transfer (GBP, or EUR/SEPA), or Revolut
 
-Keep an eye out for [Strike app (currently in limited Beta)](https://strike.zaphq.io), which lets you pay bitcoin (anyone, including yourself) through Lightning network with the funds first coming from your bank (in the U.S.):
+Keep an eye out for [Strike app (currently in limited Beta)](https://strike.zaphq.io), which lets you pay bitcoin (anyone, including yourself) through Lightning network [⚡](https://lightningnetworkstores.com/wallets) with the funds first coming from your bank (in the U.S.):
 
 - https://medium.com/@JimmyMow/announcing-strike-by-zap-4f578c7c8984
 
@@ -95,7 +95,7 @@ And finally, some Bitcoin ATMs are not just bitcoin vending services, but also a
 
 - https://coinatmradar.com  <-- Some will require Identity verification/KYC, others just a phone number (e.g., CoinFlip ATMs, when $900 or less), or nothing at all
 
-Keep an eye out for [Strike.me](https://Strike.me), a way to cash out bitcoin into yoru bank (in the U.S.).  It's meant as a "tipping" app, but since it's bitcoin, you could "tip" yourself in bitcoin, and it is sent right to your bank account (via ACH).
+Keep an eye out for [Strike.me](https://Strike.me), a way to cash out bitcoin into your bank (in the U.S.).  It's meant as a "tipping" app, but since it is bitcoin, you could "tip" yourself in bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets), and those funds are sent right to your bank account (via ACH).
 
 - https://medium.com/@JimmyMow/announcing-strike-me-by-zap-e9bb63750280 
 
