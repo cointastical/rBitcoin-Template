@@ -725,7 +725,8 @@ LENDING:
 *Platforms Where You Can Earn Interest By Lending Your Crypto*
 
 - https://www.cryptomorrow.com/2019/08/02/crypto-lending-platforms-earn-interest
-- https://fuk.io/best-bitcoin-lending-sites-btc-loans-lend-cryptocurrency/
+- https://fuk.io/best-bitcoin-lending-sites-btc-loans-lend-cryptocurrency
+- https://news.crypterium.com/crypto-lending-platforms
 
 *Blockfi discussion*
 
