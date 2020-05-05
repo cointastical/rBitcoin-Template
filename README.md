@@ -397,6 +397,10 @@ We (as a community) need to do a better job at convincing people to ...
 
 Otherwise, **YOU'RE GONNA HAVE A BAD TIME**
 
+*How Blockchain.com harms the cryptocurrency community*
+
+- https://np.reddit.com/r/Bitcoin/comments/gct9qi
+
 *************************************************************************
 TAXES:
 
