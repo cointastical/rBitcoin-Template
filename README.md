@@ -22,7 +22,7 @@ There are physical locations where there are Bitcoin ATMs and other vending/vouc
 
 - https://coinatmradar.com  <-- Some will require Identity verification/KYC, others just a phone number (e.g., CoinFlip ATMs, when $900 or less), or nothing at all
 - https://www.coinstar.com/bitcoin (with [2,200+ locations in the U.S.](https://coinme.com/kiosks))  <-- Identity verification/KYC
-- https://libertyx.com/a/buy/locations  <-- Cashier (cash), and/or Kiosk (debit card)
+- https://libertyx.com/a/buy/locations  <-- Cashier (cash), ATM (casn or debit card), and Kiosk (debit card)
 - https://np.reddit.com/r/Bitcoin/comments/dabf2m  <-- Some will require identify verification/KYC, but not all will.
 
 Otherwise, an in-person cash trade or an online trade using a P2P trading exchange may possibly be your next best option:
