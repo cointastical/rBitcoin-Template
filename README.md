@@ -718,7 +718,7 @@ There's still the risk of it going down after you purchase, but this strategy is
 - [Swan Bitcoin](https://www.swanbitcoin.com) <-- Recurring purchasing (US)
 - [GiveBitcoin](https://givebitcoin.io) <-- Recurring purchasing (US)
 - [River](https://River.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Recurring purchasing (U.S., waiting list to join)
-- [BullBitcoin](http://bullbitcoin.com) <-- Recurring purchasing (CA)
+- [BullBitcoin](https://bullbitcoin.com) <-- Recurring purchasing (CA)
 - [Amber](https://getamber.io) <-- Recurring purchasing (AU)
 - [Independent Reserve](https://independentreserve.com) <-- Recurring purchasing (AU & NZ)
 - [BTC Markets](https://www.btcmarkets.net) <-- Recurring buying using BPay (AU)
