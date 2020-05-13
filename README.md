@@ -163,6 +163,11 @@ For traders/speculation:
 
 - https://www.bitcointradingsites.net/features/advanced-order-types
 
+Exchange ratings:
+
+- https://hacken.io/research/researches-and-investigations/top-100-exchanges-by-cybersecurity-score-3-and-combined-score-march-2020
+- https://nomics.com/exchanges
+
 INSTANT EXCHANGES:
 
 *No-KYC Instant Exchanges*
@@ -945,11 +950,6 @@ SECURITY:
 
 - https://bitcointalk.org/index.php?topic=137272
 - http://www.safetradestations.com
-
-Exchange ratings:
-
-- https://hacken.io/research/researches-and-investigations/top-100-exchanges-by-cybersecurity-score-3-and-combined-score-march-2020
-- https://nomics.com/exchanges
 
 *************************************************************************
 TELEGRAM:
