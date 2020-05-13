@@ -414,6 +414,7 @@ TAXES:
 - https://www.fool.com/retirement/2018/12/09/long-term-capital-gains-tax-rates-in-2019.aspx
 - https://www.coindesk.com/irs-confirms-it-trained-staff-on-finding-crypto-wallets
 - https://bitcoinmagazine.com/articles/op-ed-how-to-understand-taxable-events-for-cryptocurrency
+- https://www.coindesk.com/irs-solicits-contractors-to-help-examine-crypto-traders-tax-returns
 
 CoinTracking:
 
