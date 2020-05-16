@@ -411,7 +411,7 @@ Otherwise, **YOU'RE GONNA HAVE A BAD TIME**
 TAXES:
 
 - https://captain<nospace>altcoin.com/bitcoin-crypto-tax-free-countries  <-- r/Bitcoin will shadowban this post when it sees that domain, so obfuscating it.
-- https://www.fool.com/retirement/2018/12/09/long-term-capital-gains-tax-rates-in-2019.aspx
+- https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp
 - https://www.coindesk.com/irs-confirms-it-trained-staff-on-finding-crypto-wallets
 - https://bitcoinmagazine.com/articles/op-ed-how-to-understand-taxable-events-for-cryptocurrency
 - https://www.coindesk.com/irs-solicits-contractors-to-help-examine-crypto-traders-tax-returns
