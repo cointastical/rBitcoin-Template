@@ -407,6 +407,10 @@ Otherwise, **YOU'RE GONNA HAVE A BAD TIME**
 
 - https://np.reddit.com/r/Bitcoin/comments/gct9qi
 
+Example of Coinbase not being a friend to bitcoin:
+
+- https://twitter.com/TheStalwart/status/1261779484203720706
+
 *************************************************************************
 TAXES:
 
