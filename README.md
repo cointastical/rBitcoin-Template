@@ -20,17 +20,17 @@ You can purchase online using a No-KYC online store, paying by depositing cash i
 
 There are physical locations where there are Bitcoin ATMs and other vending/voucher methods.  For example, in the U.S. there is:
 
-- https://coinatmradar.com  <-- Some will require Identity verification/KYC, others just a phone number (e.g., CoinFlip ATMs, when $900 or less), or nothing at all
-- https://www.coinstar.com/bitcoin (with [2,200+ locations in the U.S.](https://coinme.com/kiosks))  <-- Identity verification/KYC
-- https://libertyx.com/a/buy/locations  <-- Cashier (cash), ATM (casn or debit card), and Kiosk (debit card)
-- https://np.reddit.com/r/Bitcoin/comments/dabf2m  <-- Some will require identify verification/KYC, but not all will.
+- https://coinatmradar.com <-- Some will require Identity verification/KYC, others just a phone number (e.g., CoinFlip ATMs, when $900 or less), or nothing at all
+- https://www.coinstar.com/bitcoin (with [2,200+ locations in the U.S.](https://coinme.com/kiosks)) <-- Identity verification/KYC
+- https://libertyx.com/a/buy/locations <-- Cashier (cash), ATM (casn or debit card), and Kiosk (debit card)
+- https://np.reddit.com/r/Bitcoin/comments/dabf2m <-- Some will require identify verification/KYC, but not all will.
 
 Otherwise, an in-person cash trade or an online trade using a P2P trading exchange may possibly be your next best option:
 
 *P2P Trading exchanges*
 
 - [Person-to-person (P2P) Trading Exchanges](https://np.reddit.com/r/Bitcoin/comments/dyclf8)
-- https://exchangerates.pro  <-- Choose country and/or Payment Method
+- https://exchangerates.pro <-- Choose country and/or Payment Method
 
 Using gift cards, there is [CardCoins](https://www.cardcoins.co) for paying with a non-reloadable, prepaid GIFT card (VISA/Mastercard/AMEX/Discover), [Redeem](https://www.redeeem.com/gift-cards), [CryptoVoucher.io](https://cryptovoucher.io) for paying with gift cards for numerous brands, [CardXCoin](https://cardxcoin.com) (buy as little as $10 if you want), r/GiftCardExchange, r/GCTrading, and [BitOf](https://bitof.io) for paying with Amazon UK gift cards).
 
@@ -38,7 +38,7 @@ There's always the friends and family methods.  Someone you know probably holds 
 
 Here's a useful comparison of exchanges in which you can filter on payment method:
 
-- https://exchangewar.info  <-- Filter box for currency (e.g., EUR) or payment method (e.g., VISA)
+- https://exchangewar.info <-- Filter box for currency (e.g., EUR) or payment method (e.g., VISA)
 
 And there's this other method to consider.  You can have part of (or all of) your earnings converted to bitcoin.  BitWage lets nearly anyone who receives pay from their employer via a bank transfer to use some or all of those wages to buy bitcoin.
 
@@ -89,11 +89,11 @@ There are various payment methods for P2P trading, such as buyer deposits cash i
 
 Otherwise, with traditional exchanges your options differ vastly based on what country you are in (i.e., what currency you use).   And how long to get KYC verified if needed, before you can withdraw your cash, etc.
 
-- https://exchangewar.info  <-- Filter box for currency (e.g., EUR)
+- https://exchangewar.info <-- Filter box for currency (e.g., EUR)
 
 And finally, some Bitcoin ATMs are not just bitcoin vending services, but also are 2-way, (i.e., dispenses cash):
 
-- https://coinatmradar.com  <-- Some will require Identity verification/KYC, others just a phone number (e.g., CoinFlip ATMs, when $900 or less), or nothing at all
+- https://coinatmradar.com <-- Some will require Identity verification/KYC, others just a phone number (e.g., CoinFlip ATMs, when $900 or less), or nothing at all
 
 Keep an eye out for [Strike.me](https://Strike.me), a way to cash out bitcoin into your bank (in the U.S.).  It's meant as a "tipping" app, but since it is bitcoin, you could "tip" yourself in bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets), and those funds are sent right to your bank account (via ACH).
 
@@ -157,7 +157,7 @@ EXCHANGES:
 
 Here's a useful comparison of mostly fiat-to-crypto exchanges in which you can filter on payment method:
 
-- https://exchangewar.info  <-- Filter box for currency (e.g., EUR) or payment method (e.g., VISA)
+- https://exchangewar.info <-- Filter box for currency (e.g., EUR) or payment method (e.g., VISA)
 
 For traders/speculation:
 
@@ -167,7 +167,7 @@ Exchange ratings:
 
 - https://hacken.io/research/researches-and-investigations/top-100-exchanges-by-cybersecurity-score-3-and-combined-score-march-2020
 - https://nomics.com/exchanges
-- https://twitter.com/lawmaster/status/1253318417123127296  <--- Fees
+- https://twitter.com/lawmaster/status/1253318417123127296 <--- Fees
 
 INSTANT EXCHANGES:
 
@@ -189,7 +189,7 @@ LIGHTNING NETWORK:
 Faucets:
 
 - https://lightning-faucet.com
-- https://fixedfloat.com/lightning-faucet  <-- Once only, per Twitter account
+- https://fixedfloat.com/lightning-faucet <-- Once only, per Twitter account
 
 *************************************************************************
 FEES / CONFIRMATIONS / RBF:
@@ -203,7 +203,7 @@ Bitcoin transaction fee (estimate)s:
 - https://jochen-hoenicke.de/queue/#0,24h
 - https://bitcoiner.live
 - https://whatthefee.io
-- https://mempool.observer  <-- Takes a little time to load the chart.
+- https://mempool.observer <-- Takes a little time to load the chart.
 - https://mempool.space
 - https://bitcoinfees.net
 - https://coinb.in/#fees
@@ -239,10 +239,10 @@ SPEND:
 Bitcoin Debit Cards:
 
 - https://cash.app <-- Deposit bitcoin (new feature), spend fiat
-- captain<nospace>altcoin.com/bitcoin-debit-cards  <-- r/Bitcoin will shadowban this post when it sees that domain, so obfuscating it.
+- captain<nospace>altcoin.com/bitcoin-debit-cards <-- r/Bitcoin will shadowban this post when it sees that domain, so obfuscating it.
 - https://plusbitcoin.net/bitcoin-debit-card
 - https://coinfunda.com/best-bitcoin-debit-card-top-btc-debit-cards-list
-- https://coinfunda.com/best-ethereum-debit-cards-shop-anything-with-your-eth-balance  <-- Ethereum
+- https://coinfunda.com/best-ethereum-debit-cards-shop-anything-with-your-eth-balance <-- Ethereum
 - https://docs.google.com/spreadsheets/d/1DRbTeMCzb4UeXI0YlAzBxMc2u2i0cN_17Ql6eMngK6E/edit#gid=0
 
 Coinbase --> PayPal --> Bank Debit Card:
@@ -320,7 +320,7 @@ Bitcoin payment processing services for online/e-commerce:
 - https://coinvigilance.com/bitcoin-payment-gateways-bitpay-alternatives-to-accept-bitcoin-payments/
 - https://lightninghardware.com/payment-processors ([⚡](https://lightningnetworkstores.com/wallets))
 - https://gilded.finance/blog/crypto-invoicing-with-stablecoins [Altcoin affiliated]
-- https://np.reddit.com/r/Bitcoin/comments/elsqu1  <-- All "No-KYC" methods
+- https://np.reddit.com/r/Bitcoin/comments/elsqu1 <-- All "No-KYC" methods
 
 For point-of-sale (POS):
 
@@ -334,7 +334,7 @@ BTCPayServer Integrations (WooCommerce, Drupal Commerce, Magento, Prestashop, an
 
 - https://docs.btcpayserver.org/faq-and-common-issues/faq-integrations
 - https://docs.btcpayserver.org/#integrations
-- https://github.com/djseeds/btcpay-shopify-checkout/blob/master/btcpay-shopify-checkout.js  <-- Shopify
+- https://github.com/djseeds/btcpay-shopify-checkout/blob/master/btcpay-shopify-checkout.js <-- Shopify
 
 OpenNode ([⚡](https://lightningnetworkstores.com/wallets)):
 
@@ -414,7 +414,7 @@ Example of Coinbase not being a friend to bitcoin:
 *************************************************************************
 TAXES:
 
-- https://captain<nospace>altcoin.com/bitcoin-crypto-tax-free-countries  <-- r/Bitcoin will shadowban this post when it sees that domain, so obfuscating it.
+- https://captain<nospace>altcoin.com/bitcoin-crypto-tax-free-countries <-- r/Bitcoin will shadowban this post when it sees that domain, so obfuscating it.
 - https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp
 - https://www.coindesk.com/irs-confirms-it-trained-staff-on-finding-crypto-wallets
 - https://bitcoinmagazine.com/articles/op-ed-how-to-understand-taxable-events-for-cryptocurrency
@@ -528,7 +528,7 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 
 - https://coinb.in
 - https://github.com/coinsurenz/LibreTX
-- https://cryptodetector.org  <-- Never enter a private key onto a websitel
+- https://cryptodetector.org <-- Never enter a private key onto a websitel
 - https://nioctib.tech
 - http://srv1.yogh.io
 
@@ -680,7 +680,7 @@ Visualization:
 - https://fiatleak.com
 - https://symphony.iohk.io
 - https://mempool.observer/monitor
-- http://live.bionictrader.io/bionic-trader  <-- Demo only
+- http://live.bionictrader.io/bionic-trader <-- Demo only
 - https://www.quora.com/What-are-some-of-the-best-Bitcoin-visualizations
 
 *************************************************************************
@@ -819,7 +819,7 @@ STABLECOINS:
 
 Simulators:
 
-- https://medium.com/@edward_64753/fcdf97f40b3  <-- For both Android and iOS
+- https://medium.com/@edward_64753/fcdf97f40b3 <-- For both Android and iOS
 - https://Niffler.co <-- iOS / Apple Store only
 - https://play.google.com/store/apps/details?id=io.bincap.exchange
 - https://itunes.apple.com/us/app/id1355480872
@@ -933,11 +933,11 @@ And here's how they do it again.
 - https://np.reddit.com/r/Bitcoin/comments/cftebx/the_software_distributed_in_the_recent_security/euckd7p/
 
 *************************************************************************
-INHERITANCE:   <-- This is a topic that needs better solutions.
+INHERITANCE:  <-- This is a topic that needs better solutions.
 
 - https://www.reddit.com/r/Bitcoin/comments/cfp7yq/would_it_be_possible_to_have_a_noncustodial_way/euc352v/
 - https://medium.com/@pamelawjd/letter-to-loved-ones-a-template-for-your-crypto-estate-planning-4ee0975434e4
-- https://www.amazon.com/Cryptoasset-Inheritance-Planning-Simple-Owners/dp/1947910116  <--Pamela Law's book
+- https://www.amazon.com/Cryptoasset-Inheritance-Planning-Simple-Owners/dp/1947910116 <--Pamela Law's book
 - https://blog.lopp.net/fifteen-men-on-a-dead-man-s-switch
 
 Via multisig: Casa, and Unchained Capital
