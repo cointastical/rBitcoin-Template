@@ -340,6 +340,10 @@ OpenNode ([⚡](https://lightningnetworkstores.com/wallets)):
 
 - https://www.opennode.com/blog/how-to-accept-bitcoin-shopify-extension <-- Shopify
 
+Shopify:
+
+- https://help.shopify.com/en/manual/payments/alternative-payments/cryptocurrency
+
 Blockonomics Payment Forwarding:
 
 - https://www.blockonomics.co/views/payment_forwarding.html
