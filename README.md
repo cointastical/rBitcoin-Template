@@ -338,7 +338,7 @@ BTCPayServer Integrations (WooCommerce, Drupal Commerce, Magento, Prestashop, an
 
 OpenNode ([⚡](https://lightningnetworkstores.com/wallets)):
 
-- https://mailchi.mp/cf60f9bb7278/opennode-can-now-be-used-on-shopify  <-- Shopify
+- https://www.opennode.com/blog/how-to-accept-bitcoin-shopify-extension <-- Shopify
 
 Blockonomics Payment Forwarding:
 
