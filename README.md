@@ -469,6 +469,7 @@ Generally recommended wallets are:
 - https://bitcoin-only.com/#wallets
 - https://blockgeeks.com/guides/7-of-the-best-bitcoin-wallets-2019-blockgeeks <-- Mostly agree, except for the paper wallet method.
 - https://whotookmycrypto.com
+- https://veriphi.io/en/blog/software-wallet-analysis
 - https://docs.google.com/spreadsheets/d/1aZ1zbaUEzCo9NCctN8-eL2VLIiSdY009tTJvRXDUWEw
 - https://np.reddit.com/r/Bitcoin/comments/ekuix8
 
@@ -478,6 +479,7 @@ Generally recommended wallets are:
 - https://rusnak.io/lightning-wallets-comparison
 - https://www.lapps.co/wallets
 - https://lnroute.com/category/wallets
+- https://veriphi.io/en/blog/lightning-wallet-analysis
 
 *Bitcoin Hardware Wallet Comparison*
 
