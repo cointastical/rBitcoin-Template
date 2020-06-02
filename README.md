@@ -544,7 +544,7 @@ FULL NODES:
 
 *Bitcoin nodes and/or Lightning network nodes on tiny hardware*
 
-- https://www.reddit.com/r/Bitcoin/comments/do07d0
+- https://np.reddit.com/r/Bitcoin/comments/do07d0
 
 PAPER WALLETS:
 
@@ -950,11 +950,11 @@ And here's how they do it again.
 
 *"It takes just one phone call and Coinbase's 1.2M BTC becomes property of the U.S. Treasury"*
 
-- https://www.reddit.com/r/Bitcoin/comments/cffc9s/what_happens_when_countries_start_buying_bitcoin/euaecw8/
+- https://np.reddit.com/r/Bitcoin/comments/cffc9s/what_happens_when_countries_start_buying_bitcoin/euaecw8/
 
 *"Sir, this is a national security issue, didn't you hear Mnuchin last week?"*
 
-- https://www.reddit.com/r/Bitcoin/comments/cffc9s/what_happens_when_countries_start_buying_bitcoin/eucau8j/
+- https://np.reddit.com/r/Bitcoin/comments/cffc9s/what_happens_when_countries_start_buying_bitcoin/eucau8j/
 
 *So who cares what the government does, my keys are on my computer*
 
@@ -964,7 +964,7 @@ And here's how they do it again.
 *************************************************************************
 INHERITANCE:  <-- This is a topic that needs better solutions.
 
-- https://www.reddit.com/r/Bitcoin/comments/cfp7yq/would_it_be_possible_to_have_a_noncustodial_way/euc352v/
+- https://np.reddit.com/r/Bitcoin/comments/cfp7yq/would_it_be_possible_to_have_a_noncustodial_way/euc352v/
 - https://medium.com/@pamelawjd/letter-to-loved-ones-a-template-for-your-crypto-estate-planning-4ee0975434e4
 - https://www.amazon.com/Cryptoasset-Inheritance-Planning-Simple-Owners/dp/1947910116 <--Pamela Law's book
 - https://blog.lopp.net/fifteen-men-on-a-dead-man-s-switch
