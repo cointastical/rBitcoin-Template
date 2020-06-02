@@ -753,7 +753,7 @@ There's still the risk of it going down after you purchase, but this strategy is
 - [Swan Bitcoin](https://www.swanbitcoin.com) <-- Recurring purchasing (US)
 - [GiveBitcoin](https://givebitcoin.io) <-- Recurring purchasing (US)
 - [River](https://River.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Recurring purchasing (U.S., waiting list to join)
-- [Cash App](https://cash.app/help/us/en-us/3109-schedule-automatic-purchases) (US)
+- [Cash App](https://cash.app/help/us/en-us/3109-schedule-automatic-purchases) <-- Recurring purchasing (US)
 - [BullBitcoin](https://bullbitcoin.com) <-- Recurring purchasing (CA)
 - [Amber](https://getamber.io) <-- Recurring purchasing (AU)
 - [Independent Reserve](https://independentreserve.com) <-- Recurring purchasing (AU & NZ)
