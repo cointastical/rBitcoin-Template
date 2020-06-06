@@ -324,7 +324,7 @@ Bitcoin payment processing services for online/e-commerce:
 
 For point-of-sale (POS):
 
-- https://blog.btcpayserver.org/bitcoin-pos
+- https://blog.btcpayserver.org/bitcoin-pos ([⚡](https://lightningnetworkstores.com/wallets))
 - https://coinrevolution.com/pt/top-terminais-10-bitcoin-pos/
 - Worldline [coming soon](https://worldline.com/en/home/newsroom/press-releases-general/2019/pr-2019_11_08_01.html)
 
