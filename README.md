@@ -462,6 +462,7 @@ Generally recommended wallets are:
 *Storing bitcoins*
 
 - https://en.bitcoin.it/wiki/Storing_bitcoins
+- https://blog.keys.casa/the-dos-and-donts-of-bitcoin-key-management
 
 *Choose your Bitcoin wallet*
 
