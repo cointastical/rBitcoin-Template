@@ -416,6 +416,10 @@ Example of Coinbase not being a friend to bitcoin:
 
 - https://twitter.com/TheStalwart/status/1261779484203720706
 
+LocalBitcoins - Abuse & Silencing Customers:
+
+- https://np.reddit.com/r/Bitcoin/comments/fja3xk
+
 *************************************************************************
 TAXES:
 
