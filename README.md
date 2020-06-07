@@ -607,7 +607,7 @@ MINING:
 
 First off, how much do you pay for electricity?
 
-At something like ~$11.5K BTC/USD, the bitcoin miner's equilibrium is about $0.12 per kWh, using an Antminer S9 and today's difficulty level.  This means if you pay more than ~$0.10 per KWh, unplug your ASIC miner and sell it -- it's cheaper to buy bitcoin than operate a bitcoin mining rig.  You are competing against professional miners who earn a decent profit by paying just $0.03 to $0.05 per kWH.
+At something like ~$10K BTC/USD, the bitcoin miner's equilibrium is about $0.10 per kWh, using an efficient Antminer S17+ and today's difficulty level. This means if you pay more than ~$0.08 per KWh, unplug your ASIC miner and sell it -- it's cheaper to buy bitcoin than operate a bitcoin mining rig. You are competing against professional miners who earn a decent profit by paying just $0.03 to $0.05 per kWH.
 
 And that equilibrium fluctuates based on difficulty and the exchange rate, so don't count on $0.12 equilibrium lasting.  It could easily drop to $0.07 or much lower even in the next year.
 
