@@ -822,6 +822,7 @@ DERIVATIVES:
 - https://bitnomial.com
 - https://sparrowexchange.com
 - https://www.hegic.co (altcoin-related, but interesting)
+- https://proofofreview.com/exchanges
 - https://bitcointalk.org/index.php?topic=5214418
 
 LEVERAGE:
