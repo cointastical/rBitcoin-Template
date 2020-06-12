@@ -759,6 +759,7 @@ There's still the risk of it going down after you purchase, but this strategy is
 - [GiveBitcoin](https://givebitcoin.io) <-- Recurring purchasing (US)
 - [River](https://River.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Recurring purchasing (US)
 - [Cash App](https://cash.app/help/us/en-us/3109-schedule-automatic-purchases) <-- Recurring purchasing (US)
+- [Gemini](https://support.gemini.com/hc/en-us/articles/360020827411-What-is-a-recurring-buy-) <-- Recurring purchasing (US)
 - [BullBitcoin](https://bullbitcoin.com) <-- Recurring purchasing (CA)
 - [Amber](https://getamber.io) <-- Recurring purchasing (AU)
 - [Independent Reserve](https://independentreserve.com) <-- Recurring purchasing (AU & NZ)
