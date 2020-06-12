@@ -66,6 +66,10 @@ No-KYC Instant Exchanges
 
 - https://np.reddit.com/r/Bitcoin/comments/cd1fr8
 
+Great list of No-KYC Exchanges:
+
+- https://kycnot.me/index.html
+
 or on a No-KYC P2P exchange. My recommendation, for financial privacy, is that if you use a P2P exchange, use a non-custodial one -- HodlHodl, LocalCryptos, or LocalCoinSwap (which is non-custodial when selling ETH or an ERC-20 token like DAI or USDC):
 
 With a P2P exchange, you can create a Buy ad and set your own price (e.g., 4% below spot).  You are competing with other buyers, so if you want to find a seller you'll have to offer a fair price, but most trades there that happen from a seller taking a BUY offer result in the buyer (i.e., you) paying below spot.  That's sometimes referred to as "negative fees'.  If you are needing your coins sooner, you can always take a seller's ad, but in that instance you are the one paying the premium, and the seller benefits from "negative fees".
@@ -94,6 +98,10 @@ Otherwise, with traditional exchanges your options differ vastly based on what c
 And finally, some Bitcoin ATMs are not just bitcoin vending services, but also are 2-way, (i.e., dispenses cash):
 
 - https://coinatmradar.com <-- Some will require Identity verification/KYC, others just a phone number (e.g., CoinFlip ATMs, when $900 or less), or nothing at all
+
+Great list of No-KYC Exchanges:
+
+- https://kycnot.me/index.html
 
 Keep an eye out for [Strike.me](https://Strike.me), a way to cash out bitcoin into your bank (in the U.S.).  It's meant as a "tipping" app, but since it is bitcoin, you could "tip" yourself in bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets), and those funds are sent right to your bank account (via ACH).
 
