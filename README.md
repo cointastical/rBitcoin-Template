@@ -68,7 +68,7 @@ No-KYC Instant Exchanges
 
 Great list of No-KYC Exchanges:
 
-- https://kycnot.me/index.html
+- https://kycnot.me
 
 or on a No-KYC P2P exchange. My recommendation, for financial privacy, is that if you use a P2P exchange, use a non-custodial one -- HodlHodl, LocalCryptos, or LocalCoinSwap (which is non-custodial when selling ETH or an ERC-20 token like DAI or USDC):
 
@@ -101,7 +101,7 @@ And finally, some Bitcoin ATMs are not just bitcoin vending services, but also a
 
 Great list of No-KYC Exchanges:
 
-- https://kycnot.me/index.html
+- https://kycnot.me
 
 Keep an eye out for [Strike.me](https://Strike.me), a way to cash out bitcoin into your bank (in the U.S.).  It's meant as a "tipping" app, but since it is bitcoin, you could "tip" yourself in bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets), and those funds are sent right to your bank account (via ACH).
 
