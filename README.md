@@ -846,7 +846,7 @@ LEVERAGE:
 
 There are a number of ways you can lose some or all of your bitcoins.
 
-- 1.) Buy altcoins
+- 1.) Buy [altcoins](https://coinmarketcrap.co)
 - 2.) Buy IEOs / ICOs / STOs / Utility tokens
 - 3.) Buy bitcoins or altcoins and then lend them out for "interest".
 - 4.) Leave your bitcoins on an exchange, rather than move them to your own wallet.
