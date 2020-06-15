@@ -704,6 +704,7 @@ EXPLORERS:
 - https://live.blockcypher.com <-- No Bech32 support
 - https://localbitcoinschain.com
 - https://symphony.iohk.io
+- https://gitlab.com/iMil/goxplorer <-- Local client
 - https://en.bitcoin.it/wiki/Category:Block_chain_browsers
 - https://en.bitcoin.it/wiki/Block_chain_browser#List_of_blockchain_explorers
 
