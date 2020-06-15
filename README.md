@@ -352,6 +352,10 @@ Shopify:
 
 - https://help.shopify.com/en/manual/payments/alternative-payments/cryptocurrency
 
+CoinGate ([⚡](https://lightningnetworkstores.com/wallets)):
+
+- https://coingate.com/plugins
+
 Blockonomics Payment Forwarding:
 
 - https://www.blockonomics.co/views/payment_forwarding.html
