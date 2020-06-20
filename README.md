@@ -405,7 +405,8 @@ Lamium:
 *************************************************************************
 SCAM OR NO?:
 
-- https://badbitcoin.org/thebadlist
+*How To Recognize a Crypto Currency Scam*
+
 - https://decentralizedlegalsystem.com/crypto-currency-scam
 
 We (as a community) need to do a better job at convincing people to ...
