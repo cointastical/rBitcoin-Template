@@ -499,6 +499,7 @@ Generally recommended wallets are:
 - https://rusnak.io/lightning-wallets-comparison
 - https://www.lapps.co/wallets
 - https://lnroute.com/category/wallets
+- https://veriphi.io/en/blog/lightning-wallet-architecture
 - https://veriphi.io/en/blog/lightning-wallet-analysis
 
 *Bitcoin Hardware Wallet Comparison*
