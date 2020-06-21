@@ -306,7 +306,7 @@ Related:
 Wallet local servers:
 
 - [Electrum Personal Server](https://github.com/chris-belcher/electrum-personal-server)
-- [Electrum Server in Ruse](https://github.com/romanz/electrs)
+- [Electrum Server in Rust](https://github.com/romanz/electrs)
 - [Trezor Blockbook](https://wiki.trezor.io/Blockbook)
 - [Samourai Dojo](https://samouraiwallet.com/dojo)
 
