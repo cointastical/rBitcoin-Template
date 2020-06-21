@@ -301,6 +301,7 @@ Related:
 - [ColdSend](https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/Theory/Ideas/ColdSend.md)
 - [CoinJoin-Research, by 6102](https://github.com/6102bitcoin/CoinJoin-Research) and [FAQ](https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_Discussion/CoinJoin_FAQ.md)
 - [Diving head first into Whirlpool Anonymity Sets](https://medium.com/samourai-wallet/diving-head-first-into-whirlpool-anonymity-sets-4156a54b0bc7)
+- [Coinswap](https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964)
 
 Wallet local servers:
 
