@@ -125,6 +125,10 @@ Sources:
 - https://blockonomi.com/buy-bitcoin-with-paypal
 - https://99bitcoins.com/buy-bitcoin/paypal
 
+There's also a trick where you do a PayPal Instant withdraw to the Virtual VISA card you get with a Wirex account.  That technique is described here:
+
+- https://www.smartbitcoininvestments.com/buy-bitcoin-with-paypal
+
 But you can check, maybe there is a seller on a P2P trading exchange willing to do a trade with you:
 
 *P2P Trading exchanges*
