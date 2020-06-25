@@ -292,6 +292,7 @@ Chain Analysis / Explorers:
 - https://medium.com/samourai-wallet/knowing-your-coin-privacy-using-kycp-org-7b3b4385d8b
 - https://WalletExplorer.com
 - https://oxt.me
+- Industry: Chainalysis, Elliptic, CipherTrace, and Crystal.
 
 COINJOIN:
 
@@ -726,6 +727,7 @@ Chain Analysis:
 - https://oxt.me
 - https://kycp.org
 - https://medium.com/samourai-wallet/knowing-your-coin-privacy-using-kycp-org-7b3b4385d8b
+- Industry: Chainalysis, Elliptic, CipherTrace, and Crystal.
 
 Visualization:
 
