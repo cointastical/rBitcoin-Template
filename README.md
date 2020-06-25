@@ -1007,7 +1007,7 @@ Via multisig: Casa, and Unchained Capital
 RESOURCES:
 
 - https://Bitcoin.page
-- https://www.lopp.net/lightning-information.html
+- https://lightning.how
 - https://www.theblockcrypto.com/2019/02/06/the-blocks-list-of-crypto-research-tools-and-resources/
 - https://learnmeabitcoin.com
 - https://en.bitcoin.it
