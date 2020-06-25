@@ -56,11 +56,11 @@ For those paying with GBP or EUR/SEPA, Ramp Network can be used without Id Verif
 
 - https://buy.ramp.network [**NO-KYC**] <-- Buy DAI, USDC, or ETH paying with bank transfer (GBP, or EUR/SEPA), or Revolut
 
+Then convert that to Bitcoin, e.g., on a No-KYC instant exchange:
+
 Keep an eye out for [Strike app (currently in limited Beta)](https://strike.zaphq.io), which lets you pay bitcoin (to anyone, including yourself) through Lightning network [⚡](https://lightningnetworkstores.com/wallets) with the funds first coming from your bank (in the U.S.):
 
 - https://medium.com/@JimmyMow/announcing-strike-by-zap-4f578c7c8984
-
-Then convert that to Bitcoin, e.g., on a No-KYC instant exchange:
 
 No-KYC Instant Exchanges
 
