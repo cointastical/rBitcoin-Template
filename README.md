@@ -880,6 +880,7 @@ STABLECOINS:
 - https://loanscan.io
 - https://defiprime.com/decentralized_lending
 - https://www.veradiverdict.com/p/veradiverdict-how-to-make-money-on
+- https://en.wikipedia.org/wiki/Stablecoin
 
 Simulators:
 
