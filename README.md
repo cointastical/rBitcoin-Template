@@ -566,6 +566,7 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 - https://cryptodetector.org <-- Never enter a private key onto a websitel
 - https://nioctib.tech
 - http://srv1.yogh.io
+- https://github.com/bitaps-com/jsbtc
 
 FULL NODES:
 
