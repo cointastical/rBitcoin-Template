@@ -887,6 +887,7 @@ Simulators:
 - https://play.google.com/store/apps/details?id=io.bincap.exchange
 - https://itunes.apple.com/us/app/id1355480872
 - https://testnet.bitmex.com/app/trade/XBTUSD
+- https://www.bitfinex.com/posts/477
 - eToro offers a "demo account" which you can use to practice trading.
 
 OTC:
