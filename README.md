@@ -32,7 +32,7 @@ Otherwise, an in-person cash trade or an online trade using a P2P trading exchan
 - [Person-to-person (P2P) Trading Exchanges](https://np.reddit.com/r/Bitcoin/comments/dyclf8)
 - https://exchangerates.pro <-- Choose country and/or Payment Method
 
-Using gift cards, there is [CardCoins](https://www.cardcoins.co) for paying with a non-reloadable, prepaid GIFT card (VISA/Mastercard/AMEX/Discover), [Redeem](https://www.redeeem.com/gift-cards), [CryptoVoucher.io](https://cryptovoucher.io) for paying with gift cards for numerous brands, [CardXCoin](https://cardxcoin.com) (buy as little as $10 if you want), r/GiftCardExchange, r/GCTrading, and [BitOf](https://bitof.io) for paying with Amazon UK gift cards).
+Using gift cards, there is [CardCoins](https://www.cardcoins.co) for paying with a non-reloadable, prepaid GIFT card (VISA/Mastercard/AMEX/Discover), [Redeem](https://www.redeeem.com/gift-cards), [CryptoVoucher.io](https://cryptovoucher.io) for paying with gift cards for numerous brands, r/GiftCardExchange, r/GCTrading, and [BitOf](https://bitof.io) for paying with Amazon UK gift cards).
 
 There's always the friends and family methods.  Someone you know probably holds bitcoin and would be willing to help you out by selling to you.
 
