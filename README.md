@@ -425,6 +425,10 @@ SCAM OR NO?:
 
 - https://decentralizedlegalsystem.com/crypto-currency-scam
 
+*Report being scammed*
+
+- https://cryptoscamdb.org/report
+
 We (as a community) need to do a better job at convincing people to ...
 
 **STAY AWAY FROM**:
