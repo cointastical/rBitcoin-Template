@@ -58,7 +58,7 @@ For those paying with GBP or EUR/SEPA, Ramp Network can be used without Id Verif
 
 Then convert that to Bitcoin, e.g., on a No-KYC instant exchange:
 
-No-KYC Instant Exchanges
+*No-KYC Instant Exchanges*
 
 - https://np.reddit.com/r/Bitcoin/comments/cd1fr8
 
