@@ -62,6 +62,8 @@ Then convert that to Bitcoin, e.g., on a No-KYC instant exchange:
 
 - https://np.reddit.com/r/Bitcoin/comments/cd1fr8
 
+or on a No-KYC P2P exchange. My recommendation, for financial privacy, is that if you use a P2P exchange, use a non-custodial one -- HodlHodl, LocalCryptos, or LocalCoinSwap (which is non-custodial when selling ETH or an ERC-20 token like DAI or USDC):
+
 Keep an eye out for [Strike app (currently in limited Beta)](https://strike.zaphq.io), which lets you pay bitcoin (to anyone, including yourself) through Lightning network [⚡](https://lightningnetworkstores.com/wallets) with the funds first coming from your bank (in the U.S.):
 
 - https://medium.com/@JimmyMow/announcing-strike-by-zap-4f578c7c8984
@@ -69,8 +71,6 @@ Keep an eye out for [Strike app (currently in limited Beta)](https://strike.zaph
 Great list of No-KYC Exchanges:
 
 - https://kycnot.me
-
-or on a No-KYC P2P exchange. My recommendation, for financial privacy, is that if you use a P2P exchange, use a non-custodial one -- HodlHodl, LocalCryptos, or LocalCoinSwap (which is non-custodial when selling ETH or an ERC-20 token like DAI or USDC):
 
 With a P2P exchange, you can create a Buy ad and set your own price (e.g., 4% below spot).  You are competing with other buyers, so if you want to find a seller you'll have to offer a fair price, but most trades there that happen from a seller taking a BUY offer result in the buyer (i.e., you) paying below spot.  That's sometimes referred to as "negative fees'.  If you are needing your coins sooner, you can always take a seller's ad, but in that instance you are the one paying the premium, and the seller benefits from "negative fees".
 
