@@ -203,6 +203,15 @@ Faucets:
 - https://lightning-faucet.com
 - https://fixedfloat.com/lightning-faucet <-- Once only, per Twitter account
 
+Info:
+
+- https://governology.wordpress.com/2017/07/21/so-you-wanna-understand-bitcoin-part-2/
+- https://lightning.how
+
+Charts:
+
+- https://txstats.com/dashboard/db/lightning-network?orId=1
+
 *************************************************************************
 FEES / CONFIRMATIONS / RBF:
 
