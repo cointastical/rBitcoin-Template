@@ -756,9 +756,9 @@ Chain Analysis:
 
 Visualization:
 
-- https://txhighway.cash
-- https://bitbonkers.com
-- https://www.BitListen.com
+- https://txhighway.cash <-- Click for sound
+- https://bitbonkers.com <-- Click for sound
+- https://www.BitListen.com <-- Click for sound
 - https://fiatleak.com
 - https://symphony.iohk.io
 - https://mempool.observer/monitor
