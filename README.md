@@ -863,6 +863,8 @@ IRA:
 - https://www.bitcoinmarketjournal.com/best-bitcoin-iras
 - https://help.altoira.com/hc/en-us/articles/360007104254-Alternative-Asset-IRA
 
+The following can all incur very high risk:
+
 DERIVATIVES:
 
 - https://www.coingecko.com/en/derivatives
