@@ -164,6 +164,10 @@ CASH:
 
 - https://np.reddit.com/r/Bitcoin/comments/cc9izx
 
+*Postal Money Order*
+
+- https://np.reddit.com/r/Bitcoin/comments/cc9izx/cash_by_mail_an_underutilized_way_to_buy_bitcoin/etlbuq1 [U.S.](https://bitcoinqna.com/headywook) ([PDF](https://heady_wook.keybase.pub/Wook_H_2020_How_to_buy_non_KYC_Bitcoin_with_a_US_Postal_Money_Order.pdf))
+
 *************************************************************************
 EXCHANGES:
 
