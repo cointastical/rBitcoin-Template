@@ -671,6 +671,7 @@ Related:
 - [Podcast: Intro To Bitcoin Mining (Beginnger Episode)](https://stephanlivera.com/episode/121)
 - [What is "Bitcoin mining" and how does mining work?](https://www.bitpanda.com/academy/en/lessons/what-is-bitcoin-mining-and-how-does-mining-work)
 - [So You Want to be a Miner, OK but](https://medium.com/@cclod/so-you-want-to-be-a-miner-ok-but-d7e365825b07)
+- [Bitcoin Mining Resources](https://www.lopp.net/bitcoin-information/mining.html)
 
 China:
 
