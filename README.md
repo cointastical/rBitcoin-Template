@@ -555,6 +555,7 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 - https://electrum.readthedocs.io/en/latest/multisig.html
 - https://keys.casa/Keymaster
 - https://www.unchained-capital.com/vaults
+- https://kirobo.io/introducing-our-inheritance-planning-solution/
 
 *Quest For The Perfect Bitcoin Wallet*
 
@@ -1022,6 +1023,7 @@ INHERITANCE:  <-- This is a topic that needs better solutions.
 - https://medium.com/@pamelawjd/letter-to-loved-ones-a-template-for-your-crypto-estate-planning-4ee0975434e4
 - https://www.amazon.com/Cryptoasset-Inheritance-Planning-Simple-Owners/dp/1947910116 <--Pamela Law's book
 - https://blog.lopp.net/fifteen-men-on-a-dead-man-s-switch
+- https://kirobo.io/introducing-our-inheritance-planning-solution/
 
 Via multisig: Casa, and Unchained Capital
 
