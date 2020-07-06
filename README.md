@@ -495,7 +495,7 @@ Generally recommended wallets are:
 
 > Android wallet: [Samourai Wallet](https://samouraiwallet.com), [Electrum](https://electrum.org), [Eclair](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2) (with Lightning functionality)
 
-> iPhone wallet: [Blockstream Green](https://blockstream.com/green)
+> iPhone wallet: [Blockstream Green](https://blockstream.com/green), [Fully Noded](https://github.com/Fonta1n3/FullyNoded/blob/master/Readme.md) ([App Store](https://apps.apple.com/us/app/fully-noded/id1436425586))
 
 *Storing bitcoins*
 
