@@ -588,6 +588,8 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 
 FULL NODES:
 
+- https://www.lopp.net/bitcoin-information/full-node.html
+
 *Bitcoin nodes and/or Lightning network nodes on tiny hardware*
 
 - https://np.reddit.com/r/Bitcoin/comments/do07d0
