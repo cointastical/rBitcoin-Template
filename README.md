@@ -716,7 +716,6 @@ Fortunately, these various renewable sources are among the cheapest methods to p
 Other charts - Nodes, SegWit usage, and RBF support:
 
 - http://luke.dashjr.org/programs/bitcoin/files/charts/software.html
-- https://segwit.space
 - https://p2sh.info/dashboard/db/replace-by-fee?orgId=1&from=now-2y&to=now
 
 Price versus difficulty (~Hashrate):
