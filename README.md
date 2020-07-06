@@ -162,7 +162,7 @@ CASH:
 
 *Cash by mail -- an underutilized way to buy bitcoin anonymously*
 
-- https://reddit.com/r/Bitcoin/comments/cc9izx
+- https://np.reddit.com/r/Bitcoin/comments/cc9izx
 
 *************************************************************************
 EXCHANGES:
