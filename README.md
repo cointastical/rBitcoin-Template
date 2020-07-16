@@ -74,6 +74,10 @@ Great list of No-KYC Exchanges:
 
 With a P2P exchange, you can create a Buy ad and set your own price (e.g., 4% below spot).  You are competing with other buyers, so if you want to find a seller you'll have to offer a fair price, but most trades there that happen from a seller taking a BUY offer result in the buyer (i.e., you) paying below spot.  That's sometimes referred to as "negative fees'.  If you are needing your coins sooner, you can always take a seller's ad, but in that instance you are the one paying the premium, and the seller benefits from "negative fees".
 
+There are No-KYC payment methods: In-person cash trade, cash deposited in the seller's bank account, [cash-in-the-mail](https://np.reddit.com/r/Bitcoin/comments/cc9izx), [postal money order](https://np.reddit.com/r/Bitcoin/comments/cc9izx/cash_by_mail_an_underutilized_way_to_buy_bitcoin/etlbuq1), and prepaid gift card.  There are sellers on the P2P exchanges who accept these payment methods.
+
+Most of these payment methods will require identity verification / KYC though.
+
 *************************************************************************
 SELL BITCOIN
 
