@@ -139,10 +139,6 @@ But you can check, maybe there is a seller on a P2P trading exchange willing to 
 
 For selling bitcoin for PayPal, following are some options. Note, this is simply a list, not an endorsement.
 
-Coinbase --> PayPal --> Bank Debit Card:
-
-- https://np.reddit.com/r/CryptoCurrency/comments/b8n735
-
 Selling bitcoin for PayPal, there are the P2P exchanges (link below) and the following. Note, this is simply a list, not an endorsement.  Due your own due diligence before sending anyone your non-reversible bitcoin:
 
 - https://bitcoins.express
@@ -154,6 +150,10 @@ Selling bitcoin for PayPal, there are the P2P exchanges (link below) and the fol
 Source:
 
 - https://www.bestchange.com/bitcoin-to-paypal-usd.html
+
+Coinbase --> PayPal --> Bank Debit Card:
+
+- https://np.reddit.com/r/CryptoCurrency/comments/b8n735
 
 *P2P Trading exchanges*
 
