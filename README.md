@@ -114,9 +114,7 @@ Keep an eye out for [Strike.me](https://Strike.me), a way to cash out bitcoin in
 *************************************************************************
 PAYPAL:
 
-Buying:
-
-There are only a few exchanges that accept PayPal due to it being easily reversed:
+For buying bitcoin with PayPal, following are some options. Note, there are only a few exchanges that accept PayPal due to it being easily reversed:
 
 - xCoins.io
 - CanCoin.com
@@ -139,7 +137,7 @@ But you can check, maybe there is a seller on a P2P trading exchange willing to 
 
 - https://np.reddit.com/r/Bitcoin/comments/dyclf8
 
-Selling:
+For selling bitcoin for PayPal, following are some options. Note, this is simply a list, not an endorsement.
 
 Coinbase --> PayPal --> Bank Debit Card:
 
