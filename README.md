@@ -139,8 +139,6 @@ But you can check, maybe there is a seller on a P2P trading exchange willing to 
 
 For selling bitcoin for PayPal, following are some options. Note, this is simply a list, not an endorsement.
 
-Selling bitcoin for PayPal, there are the P2P exchanges (link below) and the following. Note, this is simply a list, not an endorsement.  Due your own due diligence before sending anyone your non-reversible bitcoin:
-
 - https://bitcoins.express
 - https://btcrobo.com
 - https://theinstantexchange.com
