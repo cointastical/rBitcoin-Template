@@ -155,6 +155,8 @@ Coinbase --> PayPal --> Bank Debit Card:
 
 - https://np.reddit.com/r/CryptoCurrency/comments/b8n735
 
+There are traders on P2P exchanges who will pay you using PayPal. You want to be careful though to select only traders who have a good rating, as after the trade they can reverse their payment.
+
 *P2P Trading exchanges*
 
 - https://np.reddit.com/r/Bitcoin/comments/dyclf8
