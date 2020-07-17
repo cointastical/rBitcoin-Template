@@ -338,7 +338,6 @@ Banking:
 - https://www.offshorecorptalk.com/threads/list-of-banks-emis-payment-processors-and-btc-to-fiat-institutions.25398
 - https://www.offshorecorptalk.com/forums/offshore-bank-accounts-emi-accounts.27
 - https://www.offshorecorptalk.com/forums/bitcoins-altcoins-exchange-services-related.15
--
 
 *************************************************************************
 MERCHANT PAYMENT PROCESSING:
