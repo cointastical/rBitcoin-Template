@@ -382,6 +382,10 @@ Blockonomics Payment Forwarding:
 
 - https://www.blockonomics.co/views/payment_forwarding.html
 
+Paywall:
+
+- https://store.btcpayserver.org/lightning-publisher
+
 Bitpay translators and merchant alternatives directory:
 
 - https://alexk111.github.io/DeBitpay
