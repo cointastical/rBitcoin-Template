@@ -484,6 +484,7 @@ TAXES:
 - https://www.coindesk.com/irs-confirms-it-trained-staff-on-finding-crypto-wallets
 - https://bitcoinmagazine.com/articles/op-ed-how-to-understand-taxable-events-for-cryptocurrency
 - https://www.coindesk.com/irs-solicits-contractors-to-help-examine-crypto-traders-tax-returns
+- https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions
 
 CoinTracking:
 
