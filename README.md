@@ -596,6 +596,10 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 
 - https://iancoleman.io/bip39
 
+*Seed Savior*
+
+- https://kzen-networks.github.io/mnemonic-recovery/src/index.html  <-- Download and use offline only
+
 *Transaction tools* (Caution -- you can lose funds using these if you make a mistake)
 
 - https://coinb.in
