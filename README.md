@@ -701,6 +701,7 @@ Related:
 - [Podcast: Intro To Bitcoin Mining (Beginner Episode)](https://stephanlivera.com/episode/121)
 - [What is "Bitcoin mining" and how does mining work?](https://www.bitpanda.com/academy/en/lessons/what-is-bitcoin-mining-and-how-does-mining-work)
 - [So You Want to be a Miner, OK but](https://medium.com/@cclod/so-you-want-to-be-a-miner-ok-but-d7e365825b07)
+- [Proofs of Useless Work — Can we solve Bitcoin’s energy waste?](https://medium.com/@saar.tochner/proofs-of-useless-work-can-we-solve-bitcoins-energy-waste-bda6ed78070f)
 - [Bitcoin Mining Resources](https://www.lopp.net/bitcoin-information/mining.html)
 
 China:
