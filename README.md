@@ -647,6 +647,11 @@ Not your keys, not your bitcoin:
 
 - https://www.youtube.com/watch?v=vt-zXEsJ61U
 
+Uptime:
+
+- https://BitcoinUptime.com
+- https://howlonghasbitcoinbeenworkingwithoutanycentralinstitution.com
+
 *************************************************************************
 EARN:
 
