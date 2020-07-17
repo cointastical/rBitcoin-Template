@@ -1009,7 +1009,7 @@ No?  Hmm... did you know you that starting right this very moment, and completed
 
 You would only know about it because the next time you go to use your phone you'll notice it has stopped working.
 
-Yes, ... it's that easy for the thieves.
+Yes, ... [it's that easy for the thieves](https://np.reddit.com/r/Bitcoin/comments/hrwdbl).
 
 And that's not the only risk for your BTC even if Coinbase is an honest, competent exchange.
 
