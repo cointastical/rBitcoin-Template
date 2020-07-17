@@ -455,6 +455,18 @@ Otherwise, **YOU'RE GONNA HAVE A BAD TIME**
 
 - https://np.reddit.com/r/Bitcoin/comments/gct9qi
 
+*Eight reasons the blockchain.com wallet is a bad choice*
+
+- https://np.reddit.com/r/Bitcoin/comments/hqekne/following_the_blockchaincom_feerate/fxxb8ea/
+
+*Blockchain.com Web wallet underpays the recommended feerate for transactions with two outputs.  The Blockchain.com iOS wallet overpays on transactions with one output."*
+
+- https://b10c.me/mempool-observations/3-blockchaincom-recommendations
+
+Typical former Blockchain.com wallet user:
+
+- https://np.reddit.com/r/Bitcoin/comments/hm0nzk
+
 Coinbase is not a friend to bitcoin:
 
 - https://twitter.com/TheStalwart/status/1261779484203720706
