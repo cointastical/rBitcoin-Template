@@ -268,9 +268,6 @@ Bitcoin Debit Cards:
 
 - https://cash.app <-- Deposit bitcoin (new feature), spend fiat
 - captain<nospace>altcoin.com/bitcoin-debit-cards <-- r/Bitcoin will shadowban this post when it sees that domain, so obfuscating it.
-- https://plusbitcoin.net/bitcoin-debit-card
-- https://coinfunda.com/best-bitcoin-debit-card-top-btc-debit-cards-list
-- https://coinfunda.com/best-ethereum-debit-cards-shop-anything-with-your-eth-balance <-- Ethereum
 - https://docs.google.com/spreadsheets/d/1DRbTeMCzb4UeXI0YlAzBxMc2u2i0cN_17Ql6eMngK6E/edit#gid=0
 
 Coinbase --> PayPal --> Bank Debit Card:
