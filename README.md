@@ -572,6 +572,7 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 - https://keys.casa/Keymaster
 - https://www.unchained-capital.com/vaults
 - https://kirobo.io/introducing-our-inheritance-planning-solution/
+- https://github.com/cryptoadvance/specter-desktop
 
 *Quest For The Perfect Bitcoin Wallet*
 
