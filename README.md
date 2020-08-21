@@ -604,7 +604,7 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 - https://github.com/coinsurenz/LibreTX
 - https://cryptodetector.org <-- Never enter a private key onto a websitel
 - https://nioctib.tech
-- http://srv1.yogh.io
+- http://srv1.yogh.io <-- Mining simulator
 - https://github.com/bitaps-com/jsbtc
 - https://github.com/benthecarman/PSBT-Toolkit/blob/master/README.md
 
