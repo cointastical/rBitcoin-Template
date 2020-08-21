@@ -21,7 +21,7 @@ You can purchase online using a No-KYC online store, paying by depositing cash i
 There are physical locations where there are Bitcoin ATMs and other vending/voucher methods.  For example, in the U.S. there is:
 
 - https://coinatmradar.com <-- Some will require Identity verification/KYC, others just a phone number (e.g., CoinFlip ATMs, when $900 or less), or nothing at all
-- https://www.coinstar.com/bitcoin (with [2,200+ locations in the U.S.](https://coinme.com/kiosks)) <-- Identity verification/KYC
+- https://www.coinstar.com/bitcoin (with [2,200+ locations in the U.S.](https://coinme.com/locations)) <-- Identity verification/KYC
 - https://libertyx.com/a/buy/locations <-- Cashier (cash), ATM (cash or debit card), Kiosk (debit card), and from any 7-Eleven, CVS, & Rite Aid -- [20,000 locations in the U.S.](https://www.prnewswire.com/news-releases/bitcoin-on-every-block-use-cash-to-purchase-bitcoin-with-libertyx-at-20-000-retail-locations-including-major-convenience-store-and-pharmacy-chains-301081111.html)
 - https://np.reddit.com/r/Bitcoin/comments/dabf2m <-- Some will require identify verification/KYC, but not all will.
 
