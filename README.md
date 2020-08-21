@@ -461,10 +461,6 @@ Otherwise, **YOU'RE GONNA HAVE A BAD TIME**
 
 - https://b10c.me/mempool-observations/3-blockchaincom-recommendations
 
-Typical former Blockchain.com wallet user:
-
-- https://np.reddit.com/r/Bitcoin/comments/hm0nzk
-
 Coinbase is not a friend to bitcoin:
 
 - https://twitter.com/TheStalwart/status/1261779484203720706
