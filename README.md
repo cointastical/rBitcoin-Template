@@ -455,7 +455,7 @@ Otherwise, **YOU'RE GONNA HAVE A BAD TIME**
 
 *Eight reasons the blockchain.com wallet is a bad choice*
 
-- https://np.reddit.com/r/Bitcoin/comments/hqekne/following_the_blockchaincom_feerate/fxxb8ea/
+- https://np.reddit.com/r/Bitcoin/comments/hqekne/following_the_blockchaincom_feerate/fxxb8ea
 
 *Blockchain.com Web wallet underpays the recommended feerate for transactions with two outputs.  The Blockchain.com iOS wallet overpays on transactions with one output."*
 
