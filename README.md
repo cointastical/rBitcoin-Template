@@ -930,6 +930,7 @@ LENDING:
 STABLECOINS:
 
 - https://loanscan.io
+- https://nomics.com/guides/cryptocurrency-interest-earning-accounts
 - https://defiprime.com/decentralized_lending
 
 ROUND UP services:
