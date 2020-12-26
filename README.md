@@ -684,7 +684,7 @@ And that equilibrium fluctuates based on difficulty and the exchange rate, so do
 Beginner mining ...
 
 - https://www.cudominer.com
-- https://www.nicehash.com/cpu-gpu-mining
+- https://www.nicehash.com/cpu-gpu-mining [⚡](https://lightningnetworkstores.com/wallets)
 
 Pro Bitcoin mining:
 
