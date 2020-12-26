@@ -1123,11 +1123,11 @@ And here's how they do it again.
 *************************************************************************
 INHERITANCE:  <-- This is a topic that needs better solutions.
 
-- https://np.reddit.com/r/Bitcoin/comments/cfp7yq/would_it_be_possible_to_have_a_noncustodial_way/euc352v/
 - https://medium.com/@pamelawjd/letter-to-loved-ones-a-template-for-your-crypto-estate-planning-4ee0975434e4
 - https://www.amazon.com/Cryptoasset-Inheritance-Planning-Simple-Owners/dp/1947910116 <--Pamela Law's book
 - https://blog.lopp.net/fifteen-men-on-a-dead-man-s-switch
 - https://kirobo.io/introducing-our-inheritance-planning-solution/
+- https://np.reddit.com/r/Bitcoin/comments/cfp7yq/would_it_be_possible_to_have_a_noncustodial_way/euc352v/
 
 Via multisig: Casa, and Unchained Capital
 
