@@ -441,6 +441,10 @@ SCAM OR NO?:
 
 - https://selfkey.org/list-of-cryptocurrency-exchange-hacks
 
+*Ethereum scam*
+
+- https://np.reddit.com/r/Bitcoin/comments/jxcdtb/what_is_rsk_bitcoins_l2_platform_doing_wrong/gcw9k04
+
 We (as a community) need to do a better job at convincing people to ...
 
 **STAY AWAY FROM**:
