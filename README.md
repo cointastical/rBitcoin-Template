@@ -582,6 +582,7 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 - https://twitter.com/sundaywar/status/1136435450481012736
 - https://stephanlivera.com/episode/97
 - https://saleemrashid.com/2018/01/27/hardware-wallet-electrum-multisig
+- https://shiftcrypto.ch/blog/how-nearly-all-personal-hardware-wallet-multisig-setups-are-insecure
 
 *Multisig*
 
