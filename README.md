@@ -204,7 +204,6 @@ Faucets:
 
 Info:
 
-- https://governology.wordpress.com/2017/07/21/so-you-wanna-understand-bitcoin-part-2/
 - https://lightning.how
 
 Charts:
