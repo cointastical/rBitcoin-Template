@@ -842,6 +842,7 @@ Portfolio:
 - https://medium.com/blockinfluence/the-10-best-crypto-portfolio-tracker-apps-8574e12f8fd3
 - https://github.com/rotki/rotki <-- Free, open source (freemium model)
 - https://cryptosheets.com
+- https://noveria.app <-- No signup, no account.
 
 Charts:
 
