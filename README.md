@@ -1076,7 +1076,7 @@ Yes, ... [it's that easy for the thieves](https://np.reddit.com/r/Bitcoin/commen
 
 And that's not the only risk for your BTC even if Coinbase is an honest, competent exchange.
 
-When you "link" your bank account on Coinbase, ... a data harvesting company called Plaid (which is now owned by Visa) rifles through the last couple years of your bank transaction history. (This is not unique to Coinbase. I see BitSTAMP, Gemini, Abra, RobinHood, River, GiveBitcoin, Strike, and Paxos do this as well.)
+When you "link" your bank account on Coinbase, ... a data harvesting company called Plaid (which is now owned by Visa) rifles through the last couple years of your bank transaction history. (This is not unique to Coinbase. I see BitSTAMP, Gemini, Abra, RobinHood, River, GiveBitcoin, Strike, Cash App, and Paxos do this as well.)
 
 *"To link your bank account, we require your bank account login name and password." NEVER AGAIN*
 
