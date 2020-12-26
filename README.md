@@ -100,6 +100,7 @@ And finally, some Bitcoin ATMs are not just bitcoin vending services, but also a
 Great list of No-KYC Exchanges:
 
 - https://kycnot.me
+- https://bitcoinqna.github.io/noKYConly
 
 Keep an eye out for [Strike.me](https://Strike.me), a way to cash out bitcoin into your bank (in the U.S.).  It's meant as a "tipping" app, but since it is bitcoin, you could "tip" yourself in bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets), and those funds are sent right to your bank account (via ACH).
 
