@@ -851,7 +851,7 @@ Charts:
 
 Sentiment:
 
-- https://alternative.me/crypto/fear-and-greed-index/
+- https://alternative.me/crypto/fear-and-greed-index
 
 *************************************************************************
 INVESTING:
