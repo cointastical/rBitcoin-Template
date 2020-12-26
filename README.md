@@ -909,6 +909,11 @@ LENDING:
 - https://www.cryptomorrow.com/2019/08/02/crypto-lending-platforms-earn-interest
 - https://fuk.io/best-bitcoin-lending-sites-btc-loans-lend-cryptocurrency
 - https://news.crypterium.com/crypto-lending-platforms
+- https://medium.com/coinmonks/blockfi-vs-celsius-vs-hodlnaut-8a1cc8c26630
+- https://www.cryptovantage.com/best-crypto-lending
+- https://Lend.HodlHodl.com [**NO-KYC**]
+- https://www.danheld.com/blog/2020/9/17/yield-farming-with-bitcoin
+- https://decrypt.co/46926/lightning-labs-defi-bitcoin-lightning-pool | [Source](https://github.com/lightninglabs/pool)
 
 *Blockfi discussion*
 
