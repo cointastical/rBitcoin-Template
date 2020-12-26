@@ -952,7 +952,7 @@ As always, do your own due diligence, as I know nothing about any of them -- and
 - https://coindiligent.com/cryptocurrency-trading-bots
 - https://blog.shrimpy.io/blog/the-best-automated-crypto-trading-bots-in-the-market
 
-IRA:
+IRA / 401K:
 
 - https://www.bitcoinmarketjournal.com/best-bitcoin-iras
 - https://help.altoira.com/hc/en-us/articles/360007104254-Alternative-Asset-IRA
