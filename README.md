@@ -932,6 +932,7 @@ STABLECOINS:
 - https://loanscan.io
 - https://nomics.com/guides/cryptocurrency-interest-earning-accounts
 - https://defiprime.com/decentralized_lending
+- https://www.veradiverdict.com/p/veradiverdict-how-to-make-money-on
 - https://en.wikipedia.org/wiki/Stablecoin
 
 ROUND UP services:
