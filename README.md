@@ -725,6 +725,7 @@ Pro Bitcoin mining:
 Related:
 
 - [Current Hashrate](https://bitinfocharts.com/comparison/bitcoin-hashrate.html)
+- [Bitcoin Miner Revenue per TH/s](https://embed.theblockcrypto.com/data/on-chain-metrics/bitcoin/bitcoin-miner-revenue-per-th-s-7dma/embed)
 - [Cambridge Bitcoin Electricity Consumption Index](https://www.cbeci.org)
 - [Bitcoin Mining Map](https://cbeci.org/mining_map)
 - [Podcast: Intro To Bitcoin Mining (Beginner Episode)](https://stephanlivera.com/episode/121)
