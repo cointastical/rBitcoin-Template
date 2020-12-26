@@ -546,6 +546,7 @@ Generally recommended wallets are:
 - https://veriphi.io/en/blog/software-wallet-analysis
 - https://docs.google.com/spreadsheets/d/1aZ1zbaUEzCo9NCctN8-eL2VLIiSdY009tTJvRXDUWEw
 - https://np.reddit.com/r/Bitcoin/comments/ekuix8
+- https://bitcoinsecurity.guide
 
 *Lightning network ([⚡](https://lightningnetworkstores.com/wallets)) wallets*
 
