@@ -1138,6 +1138,7 @@ RESOURCES:
 
 - https://Bitcoin.page
 - https://lightning.how
+- https://ln.guide
 - https://www.theblockcrypto.com/2019/02/06/the-blocks-list-of-crypto-research-tools-and-resources/
 - https://learnmeabitcoin.com
 - https://en.bitcoin.it
