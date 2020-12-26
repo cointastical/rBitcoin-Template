@@ -437,6 +437,10 @@ SCAM OR NO?:
 
 - https://cryptoscamdb.org/report
 
+*Cryptocurrency exchange hacks*
+
+- https://selfkey.org/list-of-cryptocurrency-exchange-hacks
+
 We (as a community) need to do a better job at convincing people to ...
 
 **STAY AWAY FROM**:
