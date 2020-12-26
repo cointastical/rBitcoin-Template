@@ -54,15 +54,7 @@ For those paying with EUR or CHF, Bity can be used without Id Verification/KYC (
 
 For those paying with GBP or EUR/SEPA, Ramp Network can be used without Id Verification/KYC:
 
-- https://buy.ramp.network [**NO-KYC**] <-- Buy DAI, USDC, or ETH paying with bank transfer (GBP, or EUR/SEPA), or Revolut
-
-Then convert that to Bitcoin, e.g., on a No-KYC instant exchange:
-
-*No-KYC Instant Exchanges*
-
-- https://np.reddit.com/r/Bitcoin/comments/cd1fr8
-
-or on a No-KYC P2P exchange. My recommendation, for financial privacy, is that if you use a P2P exchange, use a non-custodial one -- HodlHodl, LocalCryptos, or LocalCoinSwap (which is non-custodial when selling ETH or an ERC-20 token like DAI or USDC):
+- https://buy.ramp.network [**NO-KYC**] <-- Paying with bank transfer (GBP, or EUR/SEPA), or Revolut
 
 Keep an eye out for [Strike app (currently in limited Beta)](https://strike.zaphq.io), which lets you pay bitcoin (to anyone, including yourself) through Lightning network [⚡](https://lightningnetworkstores.com/wallets) with the funds first coming from your bank (in the U.S.):
 
