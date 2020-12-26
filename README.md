@@ -594,6 +594,7 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 - https://yeticold.com
 - https://kirobo.io/introducing-our-inheritance-planning-solution/
 - https://github.com/cryptoadvance/specter-desktop
+- https://www.coindesk.com/what-is-a-multisignature-crypto-wallet
 
 *Quest For The Perfect Bitcoin Wallet*
 
