@@ -291,6 +291,7 @@ Privacy articles:
 - https://medium.com/@nopara73/coin-control-is-must-learn-if-you-care-about-your-privacy-in-bitcoin-33b9a5f224a2
 - https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md
 - https://cryptochamp.com/are-bitcoin-transactions-anonymous
+- https://arxiv.org/abs/1810.12786
 - https://np.reddit.com/r/Bitcoin/comments/cjp2h9
 - https://en.bitcoin.it/wiki/Privacy
 - https://en.bitcoin.it/wiki/Address_reuse
