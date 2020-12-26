@@ -1173,6 +1173,45 @@ FORKS:
 - https://CoinPanic.com <-- For claiming the BCH, and more.
 
 *************************************************************************
+Geographic-specific:
+
+NY Bitlicense'd exchanges:
+
+- https://np.reddit.com/r/Bitcoin/comments/ifcenj/best_way_to_buy_bitcoin_500_quick_without_id_or/g2mtwg1/
+
+Canadian physical locations and vouchers:
+
+**Physical stores and Trading Spaces**
+
+- [Yap.cx](https://yap.cx) (💵) Montreal, Quebec, Canada
+- [Coin Nerds](https://coinnerds.ca) (💵) Mississauga, Ontario, Canada
+
+**Vouchers** (retail)
+
+- [FastBitcoins](https://fastbitcoins.com/#locations) (💵)
+- [Rise Wallet](https://www.risewallet.com/locations) (💵)
+- [Flexepin](https://www.flexepin.com/sales_outlet_finder) (Debit card or 💵) ([CoinCurve](https://coincurve.com), [MyBTC.ca](https://mybtc.ca/buy-bitcoin-with-flexepin-canada), [Canadian Bitcoins](https://www.canadianbitcoins.com), [LocalCoinATM](https://localcoinatm.com/flexepin-v3/#flexepin-form), [FastBitcoins](https://fastbitcoins.com/voucher) & [Crypto Voucher](https://cryptovoucher.io/redeem-now))
+- [Neosurf](https://www.neosurf.com/en_GB/application/findcard) (💵) ([BitIt](https://bitit.io))
+
+UK physical locations and vouchers:
+
+**Physical stores and Trading Spaces**
+
+- [iBEX London](https://www.ibex-bitcoin.com) (💵) London, UK
+
+**Vouchers** (retail)
+
+- [Azte.co](https://azte.co/#find_a_vendor) (💵)
+- [FastBitcoins](https://fastbitcoins.com/#locations) (💵)
+- [Flexepin](https://www.flexepin.com/sales_outlet_finder) (Debit card or 💵) ([FastBitcoins](https://fastbitcoins.com/voucher))
+
+Source:
+
+*List of Physical Stores where you can Buy or Sell bitcoin*
+
+- https://np.reddit.com/r/Bitcoin/comments/dabf2m <-- Some will require identify verification/KYC, but not all will.
+
+*************************************************************************
 TELEGRAM:
 
 Nearly all Telegram DMs (direct messages) that start out with "Hi", "Hello" or "How are you", etc., ... end up being a complete waste of my time.  Therefore, I have instituted a new policy.
