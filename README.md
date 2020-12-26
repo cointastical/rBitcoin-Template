@@ -1118,7 +1118,6 @@ And here's how they do it again.
 
 *So who cares what the government does, my keys are on my computer*
 
-- https://np.reddit.com/r/Bitcoin/comments/cftebx
 - https://np.reddit.com/r/Bitcoin/comments/cftebx/the_software_distributed_in_the_recent_security/euckd7p/
 
 *************************************************************************
