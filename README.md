@@ -497,6 +497,7 @@ CoinTracking:
 - https://cointracking.info
 - https://www.cointracker.io
 - https://koinly.io
+- https://CryptoTrader.Tax
 - https://www.accointing.com
 
 Others exist as well:
