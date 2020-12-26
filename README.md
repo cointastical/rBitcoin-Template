@@ -214,7 +214,7 @@ Charts:
 *************************************************************************
 FEES / CONFIRMATIONS / RBF:
 
-You can find additional information about your transaction here:
+You can find additional information about your transaction, including the fee sat/vByte, here:
 
 - https://Blockstream.info
 
