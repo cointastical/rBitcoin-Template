@@ -64,6 +64,7 @@ Strike app lets you pay bitcoin (to anyone, including yourself) through Lightnin
 Great list of No-KYC Exchanges:
 
 - https://kycnot.me
+- https://bitcoinqna.github.io/noKYConly
 
 With a P2P exchange, you can create a Buy ad and set your own price (e.g., 4% below spot).  You are competing with other buyers, so if you want to find a seller you'll have to offer a fair price, but most trades there that happen from a seller taking a BUY offer result in the buyer (i.e., you) paying below spot.  That's sometimes referred to as "negative fees'.  If you are needing your coins sooner, you can always take a seller's ad, but in that instance you are the one paying the premium, and the seller benefits from "negative fees".
 
