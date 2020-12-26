@@ -622,7 +622,7 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 
 *Seed Savior*
 
-- https://kzen-networks.github.io/mnemonic-recovery/src/index.html  <-- Download and use offline only
+- https://zengo-x.github.io/mnemonic-recovery/src/index.html <-- Download and use offline only
 
 *BTC Recover*
 
