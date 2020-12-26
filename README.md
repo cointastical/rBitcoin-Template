@@ -1216,6 +1216,6 @@ TELEGRAM:
 
 Nearly all Telegram DMs (direct messages) that start out with "Hi", "Hello" or "How are you", etc., ... end up being a complete waste of my time.  Therefore, I have instituted a new policy.
 
-If you would like for me to chat with you, please pay 100 sats (an amount of bitcoin worth about one U.S. penny).  If at the end of our conversation I feel you did not waste my time (or try to get me to invest in something), I will return your 100 sats to you.  My Lightning network ⚡ invoice follows:
+If you would like for me to chat with you, please pay §50 sats (an amount of bitcoin worth about one U.S. penny).  If at the end of our conversation I feel you did not waste my time (or try to get me to invest in something), I will return your 100 sats to you.  My Lightning network ⚡ invoice follows:
 
 *************************************************************************
