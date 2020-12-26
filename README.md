@@ -364,12 +364,12 @@ BTCPayServer Integrations (WooCommerce, Drupal Commerce, Magento, Prestashop, an
 
 - https://docs.btcpayserver.org/faq-and-common-issues/faq-integrations
 - https://docs.btcpayserver.org/#integrations
-- https://github.com/djseeds/btcpay-shopify-checkout/blob/master/btcpay-shopify-checkout.js <-- Shopify
 
 Shopify:
 
 - https://help.shopify.com/en/manual/payments/alternative-payments/cryptocurrency
 - https://www.opennode.com/blog/how-to-accept-bitcoin-shopify-extension ([⚡](https://lightningnetworkstores.com/wallets))
+- https://github.com/djseeds/btcpay-shopify-checkout/blob/master/btcpay-shopify-checkout.js <-- Shopify
 
 CoinGate ([⚡](https://lightningnetworkstores.com/wallets)):
 
