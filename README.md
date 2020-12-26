@@ -488,6 +488,9 @@ TAXES:
 - https://www.coindesk.com/irs-confirms-it-trained-staff-on-finding-crypto-wallets
 - https://www.coindesk.com/irs-solicits-contractors-to-help-examine-crypto-traders-tax-returns
 - https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions
+- https://www.cointracker.io/blog/what-to-do-when-you-receive-a-cp2000-notice-from-the-irs-for-your-cryptocurrency-taxes
+- https://cryptotrader.tax/blog/cryptocurrency-tax-calculations-fifo-and-lifo-costing-methods-explained
+- https://medium.com/coinmonks/best-crypto-tax-tool-for-my-money-72d4b430816b
 
 CoinTracking:
 
