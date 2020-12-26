@@ -803,7 +803,6 @@ EXPLORERS:
 - https://www.smartbit.com.au
 - https://btc.com
 - https://live.blockcypher.com <-- No Bech32 support
-- https://localbitcoinschain.com
 - https://symphony.iohk.io
 - https://gitlab.com/iMil/goxplorer <-- Local client
 - https://en.bitcoin.it/wiki/Category:Block_chain_browsers
