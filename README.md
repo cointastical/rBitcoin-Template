@@ -484,8 +484,8 @@ TAXES:
 - https://captain<nospace>altcoin.com/bitcoin-crypto-tax-free-countries <-- r/Bitcoin will shadowban this post when it sees that domain, so obfuscating it.
 - https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp
 - https://www.greenbushfinancial.com/how-to-pay-0-tax-on-capital-gains-income
-- https://www.coindesk.com/irs-confirms-it-trained-staff-on-finding-crypto-wallets
 - https://bitcoinmagazine.com/articles/op-ed-how-to-understand-taxable-events-for-cryptocurrency
+- https://www.coindesk.com/irs-confirms-it-trained-staff-on-finding-crypto-wallets
 - https://www.coindesk.com/irs-solicits-contractors-to-help-examine-crypto-traders-tax-returns
 - https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions
 
