@@ -294,6 +294,8 @@ Privacy articles:
 - https://cryptochamp.com/are-bitcoin-transactions-anonymous
 - https://arxiv.org/abs/1810.12786
 - https://np.reddit.com/r/Bitcoin/comments/cjp2h9
+- https://np.reddit.com/r/Bitcoin/comments/jycf9x
+- https://np.reddit.com/r/Bitcoin/comments/cjp2h9
 - https://en.bitcoin.it/wiki/Privacy
 - https://en.bitcoin.it/wiki/Address_reuse
 
