@@ -1004,13 +1004,6 @@ There are a number of ways you can lose some or all of your bitcoins.
 
 There's a million ways to lose your bitcoins .... it really just depends on how many you have, how many you wish to lose, and how fast you want that to happen.
 
-STABLECOINS:
-
-- https://loanscan.io
-- https://defiprime.com/decentralized_lending
-- https://www.veradiverdict.com/p/veradiverdict-how-to-make-money-on
-- https://en.wikipedia.org/wiki/Stablecoin
-
 Simulators:
 
 - https://medium.com/@edward_64753/fcdf97f40b3 <-- For both Android and iOS
