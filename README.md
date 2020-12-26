@@ -480,8 +480,8 @@ LocalBitcoins - Abuse & Silencing Customers:
 *************************************************************************
 TAXES:
 
-- https://captain<nospace>altcoin.com/bitcoin-crypto-tax-free-countries <-- r/Bitcoin will shadowban this post when it sees that domain, so obfuscating it.
 - https://asiatimes.com/2020/05/countries-that-do-not-tax-bitcoin-gains/
+- https://captain<nospace>altcoin.com/bitcoin-crypto-tax-free-countries <-- r/Bitcoin will shadowban this post when it sees that domain, so obfuscating it.
 - https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp
 - https://www.coindesk.com/irs-confirms-it-trained-staff-on-finding-crypto-wallets
 - https://bitcoinmagazine.com/articles/op-ed-how-to-understand-taxable-events-for-cryptocurrency
