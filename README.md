@@ -284,6 +284,7 @@ Other articles:
 
 Privacy articles:
 
+- https://bitcoinprivacy.guide
 - https://www.forbes.com/sites/ktorpey/2019/02/28/if-you-dont-care-about-online-privacy-you-should-read-this
 - https://www.forbes.com/sites/ktorpey/2019/02/28/bitcoin-developer-explains-the-extreme-measures-he-takes-to-protect-his-privacy-in-2019
 - https://blog.lopp.net/modest-privacy-protection-proposal
