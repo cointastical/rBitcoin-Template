@@ -590,6 +590,7 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 - https://btcguide.github.io
 - https://electrum.readthedocs.io/en/latest/multisig.html
 - https://keys.casa/Keymaster
+- https://yeticold.com
 - https://www.unchained-capital.com/vaults
 - https://kirobo.io/introducing-our-inheritance-planning-solution/
 - https://github.com/cryptoadvance/specter-desktop
