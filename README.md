@@ -1023,7 +1023,7 @@ OTC:
 
 HALVING:
 
-Previous halvings were significant because the drops in the bitcoin supply inflation annual rate went from ~25% to ~12% in the first halving, then ~8.3% to ~4.2% on the second halving.  This halving the drop goes from ~3.7% to ~1.8% on an annual basis.
+Previous halvings were significant because the drops in the bitcoin supply inflation annual rate went from ~25% to ~12% in the first halving, then ~8.3% to ~4.2% on the second halving.  The third halving saw the drop go from ~3.7% to ~1.8% on an annual basis.  The next halving will put it well under 1% on an annual basis.
 
 - https://coinmetrics.io/charts/#assets=btc_roll=7_left=IssContPctAnn_zoom=1279411200000,1572998400000
 
