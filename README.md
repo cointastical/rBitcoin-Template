@@ -405,7 +405,6 @@ BILL PAY:
 - https://swap.ly - pay bills in PL
 - https://bitwa.la - buy BTC, receive wages, pay bills - EU, maybe CA, US, MEX
 - https://pey.de - EU
-- https://coinbills.com - pay bills in US
 - https://coinsfer.com - pay bills in US
 - https://bylls.com - pay bills - CA
 - https://getpaidinbitcoin.com.au - pay bills, get wages - AUS
