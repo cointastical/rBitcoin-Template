@@ -309,8 +309,8 @@ Chain Analysis / Explorers:
 
 COINJOIN:
 
-- [WasabiWallet Coinjoin](https://github.com/6102bitcoin/FAQ/blob/master/wasabi.md)
 - [Samourai Whirlpool](https://samouraiwallet.com/whirlpool)
+- [WasabiWallet Coinjoin](https://github.com/6102bitcoin/FAQ/blob/master/wasabi.md)
 - [JoinMarket](https://reddit.com/r/JoinMarket)
 
 Related:
