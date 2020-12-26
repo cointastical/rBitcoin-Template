@@ -204,6 +204,7 @@ Faucets:
 
 Info:
 
+- https://lightningwiki.net
 - https://lightning.how
 
 Charts:
