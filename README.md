@@ -1150,6 +1150,7 @@ SECURITY:
 
 - https://bitcointalk.org/index.php?topic=137272
 - http://www.safetradestations.com
+- https://www.binance.com/en/support/faq/0bec3bb9292241e99c20136a4d3dbfe6 <-- Tips applicable to in-person cash trading with any P2P platform
 
 *************************************************************************
 TELEGRAM:
