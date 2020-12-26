@@ -666,6 +666,7 @@ If you just want to experiment / play:
 ADDRESSES:
 
 - https://en.bitcoin.it/wiki/Address
+- https://learnmeabitcoin.com/beginners/keys_addresses
 
 SECURITY:
 
