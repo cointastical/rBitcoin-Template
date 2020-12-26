@@ -1168,6 +1168,11 @@ GIFTING:
 The reason gifting of bitcoin isn't easier is because "gifts" are considered "bearer instruments" and thus are targeted by the regulators. We had the most fantastic social giving service, Bottle Pay, until it had to shutter at the end of 2019, due to upcoming AML regulations (AMLD5, specifically). With it you could send to your friend via Twitter, Reddit, Instagram, Twitch, Youtube, etc. It was easy and awesome. But it is no longer.
 
 *************************************************************************
+FORKS:
+
+- https://CoinPanic.com <-- For claiming the BCH, and more.
+
+*************************************************************************
 TELEGRAM:
 
 Nearly all Telegram DMs (direct messages) that start out with "Hi", "Hello" or "How are you", etc., ... end up being a complete waste of my time.  Therefore, I have instituted a new policy.
