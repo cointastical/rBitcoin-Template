@@ -868,6 +868,7 @@ There's still the risk of it going down after you purchase, but this strategy is
 - https://dcabtc.com
 - https://www.costavg.com
 - https://www.bitcoindollarcostaverage.com
+- https://dcatracker.com
 - [Swan Bitcoin](https://www.swanbitcoin.com) <-- Recurring purchasing (US)
 - [GiveBitcoin](https://givebitcoin.io) <-- Recurring purchasing (US)
 - [River](https://River.com) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Recurring purchasing (US)
