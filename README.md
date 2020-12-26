@@ -1025,7 +1025,7 @@ HALVING:
 
 Previous halvings were significant because the drops in the bitcoin supply inflation annual rate went from ~25% to ~12% in the first halving, then ~8.3% to ~4.2% on the second halving.  The third halving saw the drop go from ~3.7% to ~1.8% on an annual basis.  The next halving will put it well under 1% on an annual basis.
 
-- https://coinmetrics.io/charts/#assets=btc_roll=7_left=IssContPctAnn_zoom=1279411200000,1572998400000
+- https://coinmetrics.io/charts/#assets=btc_roll=7_left=IssContPctAnn_zoom=1239947414031.8052,1608620578484.565
 
 *What is halving?*
 
