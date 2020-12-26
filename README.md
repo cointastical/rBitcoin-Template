@@ -228,6 +228,7 @@ Bitcoin transaction fee (estimate)s:
 - https://bitcoinfees.net
 - https://coinb.in/#fees
 - https://btc-fee.net
+- https://fee.cryp.ee/#/btc
 - https://spookiestevie.com/bitcoin
 - https://btc.com/stats/unconfirmed-tx
 - https://txstats.com/dashboard/db/fee-estimation?orgId=1
