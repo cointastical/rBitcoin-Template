@@ -865,6 +865,7 @@ LENDING:
 *Blockfi discussion*
 
 - https://np.reddit.com/r/Bitcoin/comments/cf0p38
+- https://cryptotesters.com/blog/understanding-crypto-savings-rates
 - https://medium.com/@cryptobuffett/pros-and-cons-my-experience-earning-interest-with-blockfi-c27c133fa6fb
 - https://www.bloomberg.com/news/articles/2019-10-29/another-credit-bubble-grows-the-5-billion-crypto-loan-market
 
