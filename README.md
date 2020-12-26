@@ -1154,6 +1154,20 @@ SECURITY:
 - https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md
 
 *************************************************************************
+GIFTING:
+
+- https://givebitcoin.io
+- https://lightning.gifts ([⚡](https://lightningnetworkstores.com/wallets))
+- https://tippin.me ([⚡](https://lightningnetworkstores.com/wallets))
+- [u/LNTipBot](https://reddit.com/u/LNTipBot) ([⚡](https://lightningnetworkstores.com/wallets)) on the [r/Bitcoin](https://reddit.com/r/Bitcoin) subreddit
+- OpenDime
+- https://www.cardwallet.com/en/ho-ho-hodl
+- https://www.balletcrypto.com
+- Vouchers (see the Vouchers section from [this list](https://np.reddit.com/r/Bitcoin/comments/dabf2m)
+
+The reason gifting of bitcoin isn't easier is because "gifts" are considered "bearer instruments" and thus are targeted by the regulators. We had the most fantastic social giving service, Bottle Pay, until it had to shutter at the end of 2019, due to upcoming AML regulations (AMLD5, specifically). With it you could send to your friend via Twitter, Reddit, Instagram, Twitch, Youtube, etc. It was easy and awesome. But it is no longer.
+
+*************************************************************************
 TELEGRAM:
 
 Nearly all Telegram DMs (direct messages) that start out with "Hi", "Hello" or "How are you", etc., ... end up being a complete waste of my time.  Therefore, I have instituted a new policy.
