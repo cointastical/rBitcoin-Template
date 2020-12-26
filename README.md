@@ -509,7 +509,7 @@ WALLETS:
 
 For me the top criteria in choosing a wallet are, in this order:
 
-1. (tie) Non-custodial. This is because ... [Not your keys, not your bitcoin](https://www.youtube.com/watch?v=vt-zXEsJ61U).
+1. (tie) Non-custodial. This is because ... [Not your keys](https://notyourkeys.org), [not your bitcoin](https://www.youtube.com/watch?v=vt-zXEsJ61U).
 2. (tie) Open source, [verifiable release](https://walletscrutiny.com/#tableofwallets)
 3. [Replace-by-fee](https://en.bitcoin.it/wiki/Replace_by_fee) (RBF) support
 4. [Coin Control](https://en.bitcoin.it/Privacy#Coin_control) ([for maintaining Financial Privacy](https://medium.com/@nopara73/coin-control-is-must-learn-if-you-care-about-your-privacy-in-bitcoin-33b9a5f224a2), but also for [child-pays-for-parent](https://en.bitcoin.it/wiki/Fee_bumping) (CPFP) fee bumping).
