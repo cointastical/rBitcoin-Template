@@ -877,6 +877,7 @@ There's still the risk of it going down after you purchase, but this strategy is
 - [Voyager](https://support.investvoyager.com/support/solutions/articles/43000575793-how-to-set-up-a-recurring-buy-)  <-- Recurring purchasing (US only, for now)
 - [Binance.us](https://support.binance.us/hc/en-us/articles/360049655933-Recurring-Buy-FAQs) <-- Recurring purchasing (US)
 - [Relai](https://relai.ch) [**NO-KYC**] <-- Recurring purchasing (EU, and CH)
+- [StackinSat](https://stackinsat.com) <-- Recurring purchasing (EU)
 - [BullBitcoin](https://bullbitcoin.com) <-- Recurring purchasing (CA)
 - [Amber](https://getamber.io) <-- Recurring purchasing (AU)
 - [Independent Reserve](https://independentreserve.com) <-- Recurring purchasing (AU & NZ)
