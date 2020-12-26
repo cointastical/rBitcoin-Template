@@ -870,6 +870,11 @@ LENDING:
 - https://www.bloomberg.com/news/articles/2019-10-29/another-credit-bubble-grows-the-5-billion-crypto-loan-market
 - https://www.coindesk.com/what-crypto-lender-celsius-isnt-telling-its-depositors
 
+STABLECOINS:
+
+- https://loanscan.io
+- https://defiprime.com/decentralized_lending
+
 *Pathways for DeFi on Bitcoin*
 
 - https://medium.com/tokendaily/pathways-for-defi-on-bitcoin-a68563c4c95
