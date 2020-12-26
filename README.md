@@ -860,7 +860,7 @@ Nobody knows the future price.
 
 What you could do is follow Dollar Cost Averaging. That's where you spread your buys over a certain period of time. e..g, 6 months, you buy $50 each month, to get you investing your target of $300 (for an example).
 
-If the exchange rate goes down from here, great, your average price for your position will be less than ~$9.5K per BTC. If the exchange rate goes up from here, great, you got at least some at ~$9.5K per, which you wouldn't have gotten had you sat on the $300 for six months and bought all at once then.
+If the exchange rate goes down from here, great, your average price for your position will be less than ~$25K per BTC. If the exchange rate goes up from here, great, you got at least some at ~$25K per, which you wouldn't have gotten had you sat on the $300 for six months and bought all at once then.
 
 There's still the risk of it going down after you purchase, but this strategy is one that works for many who struggle with FOMO or who stress over trying to time the market.
 
