@@ -750,6 +750,7 @@ Other charts - Nodes, SegWit usage, and RBF support:
 - https://dashboard.bitcoinops.org/d/xVQwtADiz/segwit-usage-trends?refresh=1h&orgId=1
 - https://transactionfee.info/charts/payments-spending-segwit
 - https://bitcoinops.org/en/compatibility/#segwit-addresses
+- https://txstats.com/dashboard/db/bech32-statistics?orgId=1
 - https://p2sh.info/dashboard/db/replace-by-fee?orgId=1&from=now-2y&to=now
 
 Price versus difficulty (~Hashrate):
