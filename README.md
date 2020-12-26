@@ -431,6 +431,7 @@ SCAM OR NO?:
 *How To Recognize a Crypto Currency Scam*
 
 - https://decentralizedlegalsystem.com/crypto-currency-scam
+- https://medium.com/coinmonks/how-to-identify-and-avoid-cryptocurrency-scams-fdb8e8bdd117
 
 *Report being scammed*
 
