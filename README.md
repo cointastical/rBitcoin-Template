@@ -112,7 +112,7 @@ PAYPAL:
 For buying bitcoin with PayPal, following are some options. Note, there are only a few exchanges that accept PayPal due to it being easily reversed:
 
 - xCoins.io
-- eToro: You can fund an account on eToro and buy a bitcoin position.  But you cannot withdraw those bitcoins, and instead you can only later sell and withdraw the cash (including trading gains, or minus trading losses).
+- eToro: You can fund an account on eToro and buy a bitcoin position. But only in some [regulatory jurisdictions](https://www.etoro.com/customer-service/help/1422157482/can-i-withdraw-my-cryptocurrencies-from-the-platform) they do allow you to withdraw those bitcoins. Elsewhere you can only later sell the BTC and withdraw the cash (including trading gains, or minus trading losses).
 
 Sources:
 
