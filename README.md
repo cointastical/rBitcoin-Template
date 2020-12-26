@@ -182,8 +182,6 @@ Exchange ratings:
 
 - https://hacken.io/research/researches-and-investigations/top-100-exchanges-by-cybersecurity-score-3-and-combined-score-march-2020
 - https://nomics.com/exchanges
-- https://twitter.com/lawmaster/status/1253318417123127296 <--- Fees
-- https://research.arcane.no/the-state-of-crypto-trading-fees
 
 INSTANT EXCHANGES:
 
