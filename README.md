@@ -894,6 +894,7 @@ There's still the risk of it going down after you purchase, but this strategy is
 - [Bitdroplet](https://bitdroplet.com) <-- Recurring purchasing (IN, EU, UK, US), funding methods INR or USDT.
 - [Autocoin](https://github.com/Fittiboy/autocoin#autocoin) <-- DIY DCA on BitSTAMP
 - [CoinDCA](https://coindca.com/faq) <-- DCA on your Coinbase Pro account using this web-based agent
+- [GDax Bot](https://github.com/kdmukai/gdax_bot) ,_ DIY DCA on Coinbase Pro using this web-based agent
 - Using BitWage, either [employer signs up with BitWage](https://www.bitwage.com/for-companies), or [gig worker/employee signs up with BitWage](https://www.bitwage.com/for-individuals)
 
 More info:
