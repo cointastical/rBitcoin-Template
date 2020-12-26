@@ -608,6 +608,10 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 
 - https://en.bitcoin.it/wiki/Seed_phrase
 
+*Types of mnemonic seeds used in bitcoin*
+
+- https://coldbit.com/what-types-of-mnemonic-seeds-are-used-in-bitcoin
+
 *Derivation Path*
 
 - https://walletsrecovery.org
