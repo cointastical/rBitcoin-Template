@@ -981,6 +981,7 @@ DERIVATIVES:
 - https://www.hegic.co (altcoin-related, but interesting)
 - https://proofofreview.com/exchanges
 - https://bitcointalk.org/index.php?topic=5214418
+- https://medium.com/coinmonks/deribit-review-options-fees-apis-and-testnet-2ca16c4bbdb2
 
 LEVERAGE:
 
