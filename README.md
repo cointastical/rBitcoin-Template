@@ -890,6 +890,7 @@ There's still the risk of it going down after you purchase, but this strategy is
 - [Bitaroo](https://bitaroo.com.au) <-- Recurring purchasing (AU)
 - [Vimba](https://vimba.co) <-- Recurring purchasing (UK & NZ)
 - [Ice3X](https://ice3x.co.za/dca-repeat-orders) <-- Recurring purchasing (ZA)
+- [BitNob](https://bitnob.com) <-- Recurring purchasing (NG)
 - [Bitdroplet](https://bitdroplet.com) <-- Recurring purchasing (IN, EU, UK, US), funding methods INR or USDT.
 - Using BitWage, either [employer signs up with BitWage](https://www.bitwage.com/for-companies), or [gig worker/employee signs up with BitWage](https://www.bitwage.com/for-individuals)
 
