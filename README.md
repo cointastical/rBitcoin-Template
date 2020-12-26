@@ -56,8 +56,9 @@ For those paying with GBP or EUR/SEPA, Ramp Network can be used without Id Verif
 
 - https://buy.ramp.network [**NO-KYC**] <-- Paying with bank transfer (GBP, or EUR/SEPA), or Revolut
 
-Keep an eye out for [Strike app (currently in limited Beta)](https://strike.zaphq.io), which lets you pay bitcoin (to anyone, including yourself) through Lightning network [⚡](https://lightningnetworkstores.com/wallets) with the funds first coming from your bank (in the U.S.):
+Strike app lets you pay bitcoin (to anyone, including yourself) through Lightning network [⚡](https://lightningnetworkstores.com/wallets) with the funds first coming from your bank (in the U.S.):
 
+- https://strike.zaphq.io
 - https://medium.com/@JimmyMow/announcing-strike-by-zap-4f578c7c8984
 
 Great list of No-KYC Exchanges:
