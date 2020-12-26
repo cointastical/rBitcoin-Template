@@ -450,7 +450,7 @@ We (as a community) need to do a better job at convincing people to ...
 **STAY AWAY FROM**:
 
 - **BITCOIN.COM**
-- **BLOCKCHAIN.COM** [How Blockchain.com harms the cryptocurrency community](https://np.reddit.com/r/Bitcoin/comments/gct9qi)
+- **BLOCKCHAIN.COM**
 - **COINBASE**
 - **BITPAY**
 - **LOCALBITCOINS**
