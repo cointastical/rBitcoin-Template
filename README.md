@@ -972,6 +972,8 @@ DERIVATIVES:
 - https://skew.com/dashboard/bitcoin-futures
 - https://contractmarketcap.com
 - https://cryptorank.io/derivatives-analytics
+- https://www.theblockcrypto.com/data/crypto-markets/futures
+- https://www.theblockcrypto.com/data/crypto-markets/options
 - https://downloads.coindesk.com/crypto-investing/crypto_derivatives.pdf
 - https://blog.deribit.com/education/hedging-usd-value-by-shorting-1x
 - https://bitnomial.com
