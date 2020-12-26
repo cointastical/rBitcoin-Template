@@ -892,6 +892,7 @@ There's still the risk of it going down after you purchase, but this strategy is
 - [Ice3X](https://ice3x.co.za/dca-repeat-orders) <-- Recurring purchasing (ZA)
 - [BitNob](https://bitnob.com) <-- Recurring purchasing (NG)
 - [Bitdroplet](https://bitdroplet.com) <-- Recurring purchasing (IN, EU, UK, US), funding methods INR or USDT.
+- [Autocoin](https://github.com/Fittiboy/autocoin#autocoin) <-- DIY DCA on BitSTAMP
 - Using BitWage, either [employer signs up with BitWage](https://www.bitwage.com/for-companies), or [gig worker/employee signs up with BitWage](https://www.bitwage.com/for-individuals)
 
 More info:
