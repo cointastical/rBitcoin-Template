@@ -348,6 +348,7 @@ Bitcoin payment processing services for online/e-commerce:
 - https://coinvigilance.com/bitcoin-payment-gateways-bitpay-alternatives-to-accept-bitcoin-payments/
 - https://lightninghardware.com/payment-processors ([⚡](https://lightningnetworkstores.com/wallets))
 - https://gilded.finance/blog/crypto-invoicing-with-stablecoins [Altcoin affiliated]
+- https://www.coincorner.com/Checkout
 - https://np.reddit.com/r/Bitcoin/comments/elsqu1 <-- All "No-KYC" methods
 
 For point-of-sale (POS):
