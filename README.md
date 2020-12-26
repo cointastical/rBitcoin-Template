@@ -194,7 +194,7 @@ LIGHTNING NETWORK:
 
 *Exchanges with support for bitcoin Lightning network [⚡](https://lightningnetworkstores.com/wallets) payments*
 
-- https://medium.com/@cointastical/exchanges-with-support-for-bitcoin-lightning-network-payments-739829bcb7bc
+- https://cointastical.medium.com/exchanges-with-support-for-bitcoin-lightning-network-payments-739829bcb7bc
 - https://wiki.ion.radar.tech/tutorials/lightning-exchanges
 
 Faucets:
@@ -649,7 +649,7 @@ One way to acquire Bitcoin is to accept it as means of payment for your products
 
 *Freelancing platforms which pay in Bitcoin*
 
-- https://medium.com/@cointastical/freelancing-platforms-which-pay-in-bitcoin-e38be56166df
+- https://cointastical.medium.com/freelancing-platforms-which-pay-in-bitcoin-e38be56166df
 
 Browse this timeline for some additional ideas:
 
@@ -955,7 +955,7 @@ OTC:
 
 *Bitcoin / Crypto OTC Trading Desks*
 
-- https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc
+- https://cointastical.medium.com/bitcoin-crypto-otc-trading-desks-7f77276c6dc
 
 HALVING:
 
