@@ -624,6 +624,10 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 
 - https://kzen-networks.github.io/mnemonic-recovery/src/index.html  <-- Download and use offline only
 
+*BTC Recover*
+
+- https://github.com/3rdIteration/btcrecover
+
 *Transaction tools* (Caution -- you can lose funds using these if you make a mistake)
 
 - https://coinb.in
