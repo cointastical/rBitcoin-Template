@@ -190,10 +190,6 @@ INSTANT EXCHANGES:
 
 - https://np.reddit.com/r/Bitcoin/comments/cd1fr8
 
-*Tracing Transactions Across Cryptocurrency Ledgers*
-
-- https://arxiv.org/abs/1810.12786
-
 LIGHTNING NETWORK:
 
 *Exchanges with support for bitcoin Lightning network [⚡](https://lightningnetworkstores.com/wallets) payments*
