@@ -354,7 +354,7 @@ Bitcoin payment processing services for online/e-commerce:
 For point-of-sale (POS):
 
 - https://blog.btcpayserver.org/bitcoin-pos ([⚡](https://lightningnetworkstores.com/wallets))
-- https://coinrevolution.com/pt/top-terminais-10-bitcoin-pos/
+- https://coinrevolution.com/pt/top-terminais-10-bitcoin-pos
 - Worldline [coming soon](https://worldline.com/en/home/newsroom/press-releases-general/2019/pr-2019_11_08_01.html)
 
 Know that bitcoin itself does not work well for retail/point-of-sale. This is because zeroconf (0-conf) bitcoin transactions are not safe. For retail / point-of-sale, the bitcoin Lightning network [⚡](https://lightningnetworkstores.com/wallets) provides instant, non-reversible, and ultra-low cost payments. While LN is used today, it might not yet be ready for retail/p.o.s. applications just yet.
