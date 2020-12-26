@@ -562,6 +562,7 @@ Generally recommended wallets are:
 
 - https://bitcoin-hardware-wallet.github.io
 - https://www.investinblockchain.com/top-cold-wallets-for-storing-cryptocurrencies
+- https://bitcoinwallet.guide/hardware
 - https://bitcoinmagazine.com/articles/bitcoin-wallet-reviews-whats-the-best-hardware-wallet-on-the-market
 - https://bitcoinmagazine.com/articles/bitcoin-wallet-reviews-whats-the-best-hardware-wallet-on-the-market-part-2
 - https://bitcoinmagazine.com/articles/bitcoin-wallet-reviews-whats-the-best-hardware-wallet-on-the-market-part-3
