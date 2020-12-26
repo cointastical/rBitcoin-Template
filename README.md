@@ -881,6 +881,7 @@ There's still the risk of it going down after you purchase, but this strategy is
 - [xSats](https://xsats.com) <-- Recurring purchasing (EU, UK)
 - [Coinfloor](https://coinfloor.co.uk/hodl) <-- Recurring purchasing (UK)
 - [Mt. Pelerin](https://www.mtpelerin.com) <-- Recurring purchasing (UK, EU, CH)
+- [Luno](https://www.luno.com/blog/en/post/introducing-repeat-buy) <-- Recurring purchasing (UK, EU (SEPA), AU, SG, ID, MY, ZA, NG, UG, ZM)
 - [BullBitcoin](https://bullbitcoin.com) <-- Recurring purchasing (CA)
 - [Amber](https://getamber.io) <-- Recurring purchasing (AU)
 - [Independent Reserve](https://independentreserve.com) <-- Recurring purchasing (AU & NZ)
