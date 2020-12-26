@@ -587,6 +587,7 @@ You could even go 2 of 3 multisig, each being a different hardware wallet type: 
 *Multisig*
 
 - https://en.bitcoin.it/wiki/Multisignature
+- https://btcguide.github.io
 - https://electrum.readthedocs.io/en/latest/multisig.html
 - https://keys.casa/Keymaster
 - https://www.unchained-capital.com/vaults
