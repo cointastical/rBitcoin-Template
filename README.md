@@ -472,7 +472,6 @@ Otherwise, **YOU'RE GONNA HAVE A BAD TIME**
 Coinbase is not a friend to bitcoin:
 
 - https://twitter.com/TheStalwart/status/1261779484203720706
-- https://www.youtube.com/watch?v=dK4Owbyn61o
 
 LocalBitcoins - Abuse & Silencing Customers:
 
