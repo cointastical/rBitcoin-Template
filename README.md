@@ -1018,6 +1018,7 @@ OTC:
 
 *Bitcoin / Crypto OTC Trading Desks*
 
+- https://nomics.com/guides/cryptocurrency-otc-desks
 - https://cointastical.medium.com/bitcoin-crypto-otc-trading-desks-7f77276c6dc
 
 HALVING:
