@@ -211,6 +211,10 @@ Charts:
 
 - https://txstats.com/dashboard/db/lightning-network?orId=1
 
+Ecosystem:
+
+- https://np.reddit.com/r/Bitcoin/comments/kliz8x/why_isnt_lightning_more_popular_now_that_we_have/ghb0ylq
+
 *************************************************************************
 FEES / CONFIRMATIONS / RBF:
 
