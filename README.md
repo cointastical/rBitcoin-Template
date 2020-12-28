@@ -376,9 +376,9 @@ Shopify:
 - https://github.com/djseeds/btcpay-shopify-checkout/blob/master/btcpay-shopify-checkout.js
 - https://docs.btcpayserver.org/Shopify ([⚡](https://lightningnetworkstores.com/wallets))
 
-CoinGate ([⚡](https://lightningnetworkstores.com/wallets)):
+CoinGate:
 
-- https://coingate.com/plugins
+- https://coingate.com/plugins ([⚡](https://lightningnetworkstores.com/wallets))
 
 Blockonomics Payment Forwarding:
 
