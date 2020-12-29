@@ -102,7 +102,7 @@ Great list of No-KYC Exchanges:
 - https://kycnot.me
 - https://bitcoinqna.github.io/noKYConly
 
-[Strike.me](https://Strike.me) is a way to cash out bitcoin into your bank (in the U.S.).  It started as a "tipping" app, but since it is bitcoin, you could "tip" yourself in bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets), and those funds are sent right to your bank account (via ACH).
+[Strike.me](https://Strike.me) is a way to cash out bitcoin into your bank (in the U.S.).  It started as a "tipping" app, but since it is bitcoin, you could "tip" yourself in bitcoin on Lightning network [⚡](https://lightningnetworkstores.com/wallets), and those funds are sent right to your bank account (via ACH direct deposit).
 
 - https://medium.com/@JimmyMow/announcing-strike-me-by-zap-e9bb63750280
 
